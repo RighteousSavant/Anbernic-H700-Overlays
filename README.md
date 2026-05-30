@@ -17,11 +17,11 @@ or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-o
 <p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/56d9db84-c9a8-4e33-b334-dc1737bb81c6" /><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/443a4388-b1fc-430c-b4ab-0879d9c800ae" /></p>  
 
 · Quick Menu > Core Options  
-  · GB Colorization > Internal  
-  · Internal Palette > GB - Pocket  
+    · GB Colorization > Internal  
+    · Internal Palette > GB - Pocket  
 · Settings > Video > Scaling  
-  · Integer Scale > ON  
-  · Asect Ratio > 1:1 PAR (10:9 DAR)  
+      · Integer Scale > ON  
+      · Asect Ratio > 1:1 PAR (10:9 DAR)  
 
 <p align="center"><ins>SNK NEO·GEO Pocket Color (160×152)</ins></p>
 <p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/741a473f-7deb-48d8-9624-50c95b4710e4" />

@@ -12,7 +12,7 @@ In RetroArch, PAR stands for Pixel Aspect Ratio.  This is the ratio I use for my
 Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube Video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d)
 or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.
 
-## Here are the overlays available
+## Here are the overlays available!
 <p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>
 <p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/56d9db84-c9a8-4e33-b334-dc1737bb81c6" /><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/443a4388-b1fc-430c-b4ab-0879d9c800ae" /></p>  
 

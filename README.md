@@ -11,3 +11,6 @@ In RetroArch, PAR stands for Pixel Aspect Ratio.  This is the ratio I use for my
 # How do you install the bezels?
 Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube Video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d)
 or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.
+
+SNK NEO·GEO Pocket Color
+<p align="center"><img width="720" height="480" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/741a473f-7deb-48d8-9624-50c95b4710e4" /><img width="640" height="480" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/e71988fa-833f-4bfb-bbf9-1ee5482dd002" /></p>

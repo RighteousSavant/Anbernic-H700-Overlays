@@ -18,5 +18,6 @@ or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-o
 <img width="320" height="240" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/e71988fa-833f-4bfb-bbf9-1ee5482dd002" /></p>
 
   · Settings > Video > Scaling
+  
       · Integer Scale > ON
       · Asect Ratio > 1:1 PAR (20:19 DAR)

@@ -1,5 +1,5 @@
 # Anbernic-H700-Overlays
-These overlays are designed for the Anbernic RGXX family of devices utilizing the H700 processer with a 640×480 (4:3) and 720×480 (3:2) screen ratios.  May also work with other devices and platforms utilizing RetroArch with the same resolutions.  To fill empty areas of the screen, these overlays are freely available for anyone to use for compatible devices.  
+These overlays are designed for the Anbernic RGXX family of devices utilizing the H700 processor with a 640×480 (4:3) and 720×480 (3:2) screen ratios.  May also work with other devices and platforms utilizing RetroArch with the same resolutions.  To fill empty areas of the screen, these overlays are freely available for anyone to use for compatible devices.  
 
 <p align="center"><img width="720" height="420" alt="My-devices" src="https://github.com/user-attachments/assets/6f74007f-dc15-4f9e-8afd-1f57ac905c0d" /></p>
 <p align="center">My devices:  RG34XX & RG40XXV</center></p>

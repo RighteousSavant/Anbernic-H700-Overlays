@@ -14,4 +14,4 @@ or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-o
 
 SNK NEO·GEO Pocket Color
 <p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/741a473f-7deb-48d8-9624-50c95b4710e4" />
-<img width="640" height="480" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/e71988fa-833f-4bfb-bbf9-1ee5482dd002" /></p>
+<img width="320" height="240" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/e71988fa-833f-4bfb-bbf9-1ee5482dd002" /></p>

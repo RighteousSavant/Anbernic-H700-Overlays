@@ -13,6 +13,18 @@ Russ from RetroGameCorps has an excellent guide and breakdown of how to install 
 or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.
 
 ## Here are the overlays available!
+<p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>
+<p align="center"><img width="360" height="240" alt="R Savant-34-DMG-Preview" src="https://github.com/user-attachments/assets/22e3ebb7-b27e-4791-b4d6-5b7c9551f824" />
+<img width="320" height="240" alt="R Savant-40v-DMG-Preview" src="https://github.com/user-attachments/assets/c7445c86-09e3-4bf0-8e03-ce51701c67d2" /></p>  
+
+>· Quick Menu > Core Options  
+&emsp;· GB Colorization > Internal  
+&emsp;· Internal Palette > GB - DMG  
+
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > ON  
+&emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
+
 <p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>
 <p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/56d9db84-c9a8-4e33-b334-dc1737bb81c6" /><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/443a4388-b1fc-430c-b4ab-0879d9c800ae" /></p>  
 

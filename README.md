@@ -6,7 +6,7 @@ These overlays are designed for the Anbernic RGXX family of devices utilizing th
 
 My overlays are made for these two handhelds that I own and happily enjoy.  I cannot produce other, untested resolutions, since I don't have the handheld available.  If you have a device that you want bezels for that I don't possess, you're welcome to gift me.
 
-In RetroArch, PAR stands for Pixel Aspect Ratio.  This is the ratio I use for my bezels along with a few custom aspects.  All pixels will be perfect..except for two systems (maybe more):  Sega Master System and Nintendo Game Boy Advance (on 4:3 devices).  The Master System has a resolution of 256x192, while the Game Boy Advance has one of 240x160.  So on the devices (minus Game Boy Advance on 3:2 screens), they will scale at 2.5x resolution.  Use of shaders and/or filters can help balance out the screen's accuracy and displayed in-game graphics.
+In RetroArch, PAR stands for Pixel Aspect Ratio.  This is the ratio I use for my bezels along with a few custom aspects.  All pixels will be perfect..except for two systems (maybe more):  Sega Master System and Nintendo Game Boy Advance (on 4:3 devices).  The Master System has a resolution of 256x192, while the Game Boy Advance has one of 240x160.  So on the devices (minus Game Boy Advance on 3:2 screens), they will scale at 2.5\(\times \) resolution.  Use of shaders and/or filters can help balance out the screen's accuracy and displayed in-game graphics.
 
 # How do you install the bezels?
 Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube Video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d)

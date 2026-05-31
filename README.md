@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Anbernic-H700-Overlays
 These overlays are designed for the Anbernic RGXX family of devices utilizing the H700 processor with a 640×480 (4:3) and 720×480 (3:2) screen ratios.  May also work with other devices and platforms utilizing RetroArch with the same resolutions.  To fill empty areas of the screen, these overlays are freely available for anyone to use for compatible devices.  
 
@@ -34,6 +47,15 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  
 &emsp;· Internal Palette > GB - Pocket  
+
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > ON  
+&emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
+
+<p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>
+<p align="center">
+<img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/6de111fb-425d-4925-a4cd-b41627c5f991" />
+<img width="320" height="240" alt="GBC-40-Preview" src="https://github.com/user-attachments/assets/e7eaa963-62bd-464a-85c6-98d0bc82d1b6" /></p>
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  

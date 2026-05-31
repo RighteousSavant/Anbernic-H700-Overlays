@@ -99,4 +99,14 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > ON  
 &emsp;· Asect Ratio > 1:1 PAR (8:7 DAR)
 
+## Feedback is always welcome!
+If you wish to reach out to me with any feedback about the overlays, I recommend areas I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  
+  
+[FinalBurn Neo](https://discord.gg/pV7BkTYbH)  
+[KNULLI](https://discord.gg/d9PYJjuhr)  
+[RetroHandhelds.gg](https://discord.gg/retrohandhelds)  
+
+Please be sure the respect the rules for each individual server.  
+
+<p align="center"><img width="643" height="322" alt="play nice wip 7" src="https://github.com/user-attachments/assets/f0d993de-60eb-4f18-b23e-91220dc69272" /></p>
 

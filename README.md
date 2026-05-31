@@ -1,5 +1,5 @@
 # Anbernic-H700-Overlays  
-<p align="center"><img width="480" height="222" alt="Github" src="https://github.com/user-attachments/assets/7f7d38d5-9908-4cb3-826a-86d1bfe19101" /></p>  
+<p align="center"><img width="480" height="209" alt="Github" src="https://github.com/user-attachments/assets/bfc5ec66-b85c-40b6-b24b-4112b38769a7" /></p>  
 
 
 These overlays are designed for the Anbernic RGXX family of devices utilizing the Allwinner H700 processor with a 640×480 (4:3) and 720×480 (3:2) screen ratios.  May also work with other devices and platforms utilizing RetroArch with the same resolutions.  To fill empty areas of the screen, these overlays are freely available for anyone to use for compatible devices.  
@@ -16,8 +16,11 @@ In RetroArch, PAR stands for Pixel Aspect Ratio.  This is the ratio I use for my
 Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube Video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d)
 or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.
 
+##About arcade overlays...
+One of the banes of existance is crafting overlays for every single arcade title, as they have a variety of resolutions.  That being said, rejoice!  Our community friend, Phanturian, has a phenomenal Arcade Bezel pack for arcade games at 640×480.  [Check out his Reddit post!](https://www.reddit.com/r/SBCGaming/comments/1fw4qrk/)
+
 ## Here are the overlays available!
-I am including what you will need to setup within the RetroArch Menu for each overlay.  You are welcome to use whatever shader or filter your heart desires.  Yes, there are more skins coming.  I appreciate your patience.  Please enjoy.
+I am including what you will need to setup within the RetroArch Menu for each overlay.  You are welcome to use whatever shader or filter your heart desires.  Yes, there are more overlays coming.  I appreciate your patience.  Please enjoy.
 
 <p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>
 <p align="center"><img width="360" height="240" alt="R Savant-34-DMG-Preview" src="https://github.com/user-attachments/assets/22e3ebb7-b27e-4791-b4d6-5b7c9551f824" />
@@ -86,3 +89,14 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Asect Ratio > 1:1 PAR (8:7 DAR)
+
+
+<p align="center"><ins>Super Nintendo Entertainment System (256×224)</ins></p>
+<p align="center"><img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/3ce5c4d3-e41f-4469-9534-004815a108a0" />
+<img width="320" height="240" alt="SNES-40V-Preview" src="https://github.com/user-attachments/assets/cc7f0890-87c8-48ae-9eaf-46f582a2b2ad" /></p>
+
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > ON  
+&emsp;· Asect Ratio > 1:1 PAR (8:7 DAR)
+
+

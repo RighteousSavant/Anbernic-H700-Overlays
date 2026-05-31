@@ -53,13 +53,20 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
 
 <p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>
-<p align="center">
-<img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/6de111fb-425d-4925-a4cd-b41627c5f991" />
+<p align="center"><img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/6de111fb-425d-4925-a4cd-b41627c5f991" />
 <img width="320" height="240" alt="GBC-40-Preview" src="https://github.com/user-attachments/assets/e7eaa963-62bd-464a-85c6-98d0bc82d1b6" /></p>
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
+
+<p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
+<p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/68bce959-f41e-4ba6-af84-2e026f5d8c41" /></p>
+<p align="center">NOTE:  Resolution is a perfect 3× for 3:2 devices, so no overlay is available.  </p>
+  
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > ON  
+&emsp;· Asect Ratio > 1:1 PAR (3:2 DAR)
 
 <p align="center"><ins>SNK NEO·GEO Pocket Color (160×152)</ins></p>
 <p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/741a473f-7deb-48d8-9624-50c95b4710e4" />

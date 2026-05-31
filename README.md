@@ -59,6 +59,19 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > ON  
 &emsp;· Asect Ratio > 1:1 PAR (3:2 DAR)
 
+<p align="center"><ins>Sega Game Gear (160×144)</ins></p>
+<p align="center"><img width="360" height="240" alt="GAMEGEAR-34-Preview" src="https://github.com/user-attachments/assets/5c3bc80d-2582-421e-a2f5-ae3c4501b0c5" />
+<img width="320" height="240" alt="GAMEGEAR-40-Preview" src="https://github.com/user-attachments/assets/31352fe4-77fa-49b3-99f9-303a480c927f" /></p>
+
+>· Quick Menu > Core Options > Video  
+&emsp;· Hide Master System Side Borders > Left Border Only  
+
+
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > ON  
+&emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
+
+  
 <p align="center"><ins>SNK NEO·GEO Pocket Color (160×152)</ins></p>
 <p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/741a473f-7deb-48d8-9624-50c95b4710e4" />
 <img width="320" height="240" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/e71988fa-833f-4bfb-bbf9-1ee5482dd002" /></p>

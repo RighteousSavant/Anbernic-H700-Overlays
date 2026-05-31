@@ -16,7 +16,7 @@ In RetroArch, PAR stands for Pixel Aspect Ratio.  This is the ratio I use for my
 Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube Video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d)
 or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.
 
-##About arcade overlays...
+## About arcade overlays...
 One of the banes of existance is crafting overlays for every single arcade title, as they have a variety of resolutions.  That being said, rejoice!  Our community friend, Phanturian, has a phenomenal Arcade Bezel pack for arcade games at 640×480.  [Check out his Reddit post!](https://www.reddit.com/r/SBCGaming/comments/1fw4qrk/)
 
 ## Here are the overlays available!

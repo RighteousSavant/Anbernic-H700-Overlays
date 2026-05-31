@@ -1,11 +1,11 @@
 # Anbernic-H700-Overlays
-<p align="center"><img width="707" height="382" alt="play nice wip 7" src="https://github.com/user-attachments/assets/cdc224f4-0a74-4728-b82f-d46ccd929834" /></p>
 These overlays are designed for the Anbernic RGXX family of devices utilizing the H700 processor with a 640×480 (4:3) and 720×480 (3:2) screen ratios.  May also work with other devices and platforms utilizing RetroArch with the same resolutions.  To fill empty areas of the screen, these overlays are freely available for anyone to use for compatible devices.  
-
+  
 <p align="center"><img width="720" height="420" alt="My-devices" src="https://github.com/user-attachments/assets/6f74007f-dc15-4f9e-8afd-1f57ac905c0d" /></p>
-<p align="center">My devices:  RG34XX & RG40XXV</center></p>
+<p align="center"><small>$\color{#D4AF37}{\text{My devices:  RG34XX and RG40XXV}}$</small></p>
 
-My overlays are made for these two handhelds that I own and happily enjoy.  I cannot produce other, untested resolutions, since I don't have the handheld available.  If you have a device that you want bezels for that I don't possess, you're welcome to gift me.
+
+Overlays are made for these two handhelds that I own and happily enjoy.  I cannot produce other, untested resolutions, since I don't have the handheld available.  If you have a device that you want bezels for that I don't possess, you're welcome to gift me.
 
 In RetroArch, PAR stands for Pixel Aspect Ratio.  This is the ratio I use for my bezels along with a few custom aspects.  All pixels will be perfect..except for two systems (maybe more):  Sega Master System and Nintendo Game Boy Advance (on 4:3 devices).  The Master System has a resolution of 256×192, while the Game Boy Advance has one of 240×160.  So on the devices (minus Game Boy Advance on 3:2 screens), they will scale at 2.5× resolution.  Use of shaders and/or filters can help balance out the screen's accuracy and displayed in-game graphics.
 

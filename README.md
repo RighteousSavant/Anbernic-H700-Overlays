@@ -106,7 +106,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > ON  
 &emsp;· Asect Ratio > 1:1 PAR (4:3 DAR)
 
-<p align="center"><ins>Sega Genesis (320×224)</ins></p>
+<p align="center"><ins>Sega Genesis / CD / 32X(320×224)</ins></p>
 <p align="center"><img width="360" height="240" alt="GENESIS-34-Preview" src="https://github.com/user-attachments/assets/49d752a0-5132-4ef8-b4e4-2246876e4665" />
 <img width="320" height="240" alt="GENESIS-40V-Preview" src="https://github.com/user-attachments/assets/6b03de3f-c474-4d81-aeed-e40693042ed0" /></p>
 

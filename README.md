@@ -54,7 +54,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/68bce959-f41e-4ba6-af84-2e026f5d8c41" /></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is perfect for 3:2 devices, so only a 4:3 overlay is available.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 3:2 ratio, so only a 4:3 overlay is available.}}$</small></p>
   
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
@@ -128,6 +128,14 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 448
+
+<p align="center"><ins>Sony PlayStation (640×480)</ins></p>
+<p align="center"><img width="360" height="240" alt="PSX-34-Preview" src="https://github.com/user-attachments/assets/eb09c0a9-290a-4b90-bb18-288abccfcc92" /></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 overlay is available.}}$</small></p>
+
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > ON  
+&emsp;· Aspect Ratio > 1:1 PAR (4:3 DAR)
 
 ## Feedback is always welcome!
 If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  

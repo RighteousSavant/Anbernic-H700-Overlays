@@ -56,7 +56,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/68bce959-f41e-4ba6-af84-2e026f5d8c41" /></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a perfect 3× for 3:2 devices, so only a 4:3 overlay is available.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is perfect for 3:2 devices, so only a 4:3 overlay is available.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{The settings below also should be applied to 3:2 devices.}}$</small></p>
   
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
@@ -90,7 +91,6 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > ON  
 &emsp;· Asect Ratio > 1:1 PAR (8:7 DAR)
 
-
 <p align="center"><ins>Super Nintendo Entertainment System (256×224)</ins></p>
 <p align="center"><img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/3ce5c4d3-e41f-4469-9534-004815a108a0" />
 <img width="320" height="240" alt="SNES-40V-Preview" src="https://github.com/user-attachments/assets/cc7f0890-87c8-48ae-9eaf-46f582a2b2ad" /></p>
@@ -98,6 +98,19 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Asect Ratio > 1:1 PAR (8:7 DAR)
+<p align="center"><ins>Sega Master System (256×192)</ins></p>
+
+<p align="center"><img width="360" height="240" alt="MASTERSYSTEM-34-Preview" src="https://github.com/user-attachments/assets/862cb22a-9c9e-41ce-8333-4b9e377455e2" /></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 overlay is available.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{The settings below also should be applied to 4:3 devices.}}$</small></p>
+
+>· Quick Menu > Core Options > Video  
+&emsp;· Hide Master System Side Borders > Left Border Only  
+
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > ON  
+&emsp;· Asect Ratio > 1:1 PAR (4:3 DAR)
+
 
 ## Feedback is always welcome!
 If you wish to reach out to me with any feedback about the overlays, I recommend areas I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  

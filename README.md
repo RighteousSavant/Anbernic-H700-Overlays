@@ -1,12 +1,10 @@
 # Anbernic-H700-Overlays  
 <p align="center"><img width="480" height="209" alt="Github" src="https://github.com/user-attachments/assets/bfc5ec66-b85c-40b6-b24b-4112b38769a7" /></p>  
 
-
 These overlays are designed for the Anbernic RGXX family of devices utilizing the Allwinner H700 processor with a 640×480 (4:3) and 720×480 (3:2) screen ratios.  May also work with other devices and platforms utilizing RetroArch with the same resolutions.  To fill empty areas of the screen, these overlays are freely available for anyone to use for compatible devices.  
   
 <p align="center"><img width="720" height="420" alt="My-devices" src="https://github.com/user-attachments/assets/6f74007f-dc15-4f9e-8afd-1f57ac905c0d" /></p>
 <p align="center"><small>$\color{#D4AF37}{\text{My devices:  RG34XX and RG40XXV}}$</small></p>
-
 
 Overlays are made for these two handhelds that I own and happily enjoy.  I cannot produce other, untested resolutions, since I don't have the handheld available.  If you have a device that you want overlays for that I don't possess, you're welcome to gift me.
 
@@ -72,7 +70,6 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
-
   
 <p align="center"><ins>SNK NEO·GEO Pocket Color (160×152)</ins></p>
 <p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/741a473f-7deb-48d8-9624-50c95b4710e4" />
@@ -81,7 +78,6 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (20:19 DAR)
-
 
 <p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
 <p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/6ecd3eb4-e20a-42c3-b9ac-c6cfacdcc3fe" />
@@ -122,6 +118,16 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:7 DAR)
+
+<p align="center"><ins>SNK NEO·GEO (320×224)</ins></p>
+<p align="center"><img width="360" height="240" alt="NEOGEO-3x2-Preview" src="https://github.com/user-attachments/assets/3c8b0ec8-157a-4f14-a61d-b19b1c207bb9" />
+<img width="320" height="240" alt="NEOGEO-4x3-Preview" src="https://github.com/user-attachments/assets/1c84ce91-5ea5-4c13-9dc8-02d9c33b80be" />
+
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 448
 
 ## Feedback is always welcome!
 If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  

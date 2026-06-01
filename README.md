@@ -100,7 +100,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Sega Master System (256×192)</ins></p>
 <p align="center"><img width="360" height="240" alt="MASTERSYSTEM-34-Preview" src="https://github.com/user-attachments/assets/862cb22a-9c9e-41ce-8333-4b9e377455e2" /></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 overlay is available.  The settings below should also be applied to 4:3 devices.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 overlay is available.}}$</small></p>
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  

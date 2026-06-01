@@ -35,7 +35,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
 
 <p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>
-<p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/56d9db84-c9a8-4e33-b334-dc1737bb81c6" />
+<p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/0ab45b29-e0aa-43ea-8302-b3ade365b5d4" />
 <img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/443a4388-b1fc-430c-b4ab-0879d9c800ae" /></p>  
 
 >· Quick Menu > Core Options  

@@ -82,6 +82,15 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > ON  
 &emsp;· Asect Ratio > 1:1 PAR (20:19 DAR)
 
+
+<p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
+<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/6ecd3eb4-e20a-42c3-b9ac-c6cfacdcc3fe" />
+<img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/84bdb89d-aa5a-4d40-9c80-033ebe433411" /></p>
+
+>· Settings > Video > Scaling  
+&emsp;· Integer Scale > ON  
+&emsp;· Asect Ratio > 1:1 PAR (16:15 DAR)
+
 <p align="center"><ins>Nintendo Entertainment System (256×224)</ins></p>
 <p align="center"><img width="360" height="240" alt="NES-34-Preview" src="https://github.com/user-attachments/assets/619c25a0-0bb4-4bdb-8b2f-94342b734cb2" />
 <img width="320" height="240" alt="NES-40V-Preview" src="https://github.com/user-attachments/assets/171c8b08-3072-4a81-a187-6ce458bdc0ce" /></p>

@@ -56,7 +56,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/68bce959-f41e-4ba6-af84-2e026f5d8c41" /></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is perfect for 3:2 devices, so only a 4:3 overlay is available.  The settings below should also be applied to 3:2 devices.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is perfect for 3:2 devices, so only a 4:3 overlay is available.}}$</small></p>
   
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  

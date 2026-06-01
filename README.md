@@ -47,7 +47,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
 
 <p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>
-<p align="center"><img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/6de111fb-425d-4925-a4cd-b41627c5f991" />
+<p align="center"><img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/827772c7-32c3-4124-9fa1-cec37762b709" />
 <img width="320" height="240" alt="GBC-40-Preview" src="https://github.com/user-attachments/assets/e7eaa963-62bd-464a-85c6-98d0bc82d1b6" /></p>
 
 >· Settings > Video > Scaling  

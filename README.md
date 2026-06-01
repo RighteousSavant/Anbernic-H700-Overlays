@@ -32,7 +32,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
 
 <p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>
 <p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/0ab45b29-e0aa-43ea-8302-b3ade365b5d4" />
@@ -44,7 +44,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
 
 <p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>
 <p align="center"><img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/827772c7-32c3-4124-9fa1-cec37762b709" />
@@ -52,7 +52,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/68bce959-f41e-4ba6-af84-2e026f5d8c41" /></p>
@@ -60,7 +60,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
   
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (3:2 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (3:2 DAR)
 
 <p align="center"><ins>Sega Game Gear (160×144)</ins></p>
 <p align="center"><img width="360" height="240" alt="GAMEGEAR-34-Preview" src="https://github.com/user-attachments/assets/5c3bc80d-2582-421e-a2f5-ae3c4501b0c5" />
@@ -71,7 +71,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (10:9 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
 
   
 <p align="center"><ins>SNK NEO·GEO Pocket Color (160×152)</ins></p>
@@ -80,7 +80,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (20:19 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (20:19 DAR)
 
 
 <p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
@@ -89,7 +89,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (16:15 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (16:15 DAR)
 
 <p align="center"><ins>Nintendo Entertainment System (256×224)</ins></p>
 <p align="center"><img width="360" height="240" alt="NES-34-Preview" src="https://github.com/user-attachments/assets/619c25a0-0bb4-4bdb-8b2f-94342b734cb2" />
@@ -97,7 +97,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (8:7 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
 
 <p align="center"><ins>Super Nintendo Entertainment System (256×224)</ins></p>
 <p align="center"><img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/3ce5c4d3-e41f-4469-9534-004815a108a0" />
@@ -105,7 +105,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (8:7 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
 
 <p align="center"><ins>Sega Master System (256×192)</ins></p>
 <p align="center"><img width="360" height="240" alt="MASTERSYSTEM-34-Preview" src="https://github.com/user-attachments/assets/862cb22a-9c9e-41ce-8333-4b9e377455e2" /></p>
@@ -113,7 +113,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (4:3 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (4:3 DAR)
 
 <p align="center"><ins>Sega Genesis / CD / 32X (320×224)</ins></p>
 <p align="center"><img width="360" height="240" alt="GENESIS-34-Preview" src="https://github.com/user-attachments/assets/49d752a0-5132-4ef8-b4e4-2246876e4665" />
@@ -121,7 +121,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Asect Ratio > 1:1 PAR (10:7 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:7 DAR)
 
 ## Feedback is always welcome!
 If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  

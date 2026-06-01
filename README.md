@@ -18,7 +18,7 @@ or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-o
 One of the banes of existance is crafting overlays for every single arcade title, as they have a variety of resolutions.  That being said, rejoice!  Our community friend, Phanturian, has a phenomenal Arcade Bezel pack for arcade games at 640×480.  [Check out his Reddit post!](https://www.reddit.com/r/SBCGaming/comments/1fw4qrk/)
 
 ## Here are the overlays available!
-I am including what you will need to setup within the RetroArch Menu for each overlay.  You are welcome to use whatever shader or filter your heart desires.  Yes, there are more overlays coming.  I appreciate your patience.  Please enjoy.
+I am including what you will need to setup within the RetroArch Menu for each overlay.  You are welcome to use whatever shader or filter your heart desires.  Please enjoy.
 
 <p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>
 <p align="center"><img width="360" height="240" alt="R Savant-34-DMG-Preview" src="https://github.com/user-attachments/assets/22e3ebb7-b27e-4791-b4d6-5b7c9551f824" />

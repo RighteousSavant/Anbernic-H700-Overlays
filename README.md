@@ -33,8 +33,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
 
 <p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>
-<p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/0ab45b29-e0aa-43ea-8302-b3ade365b5d4" />
-<img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/443a4388-b1fc-430c-b4ab-0879d9c800ae" /></p>  
+<p align="center"><img width="320" height="240" alt="Pocket 4x3 Final Preview" src="https://github.com/user-attachments/assets/4c3f2f16-550e-4b44-ac75-696546134d89" />
+<img width="360" height="240" alt="Pocket 3x2 Final Preview" src="https://github.com/user-attachments/assets/616c84f7-b5e6-43e1-afb7-0515f5bdf106" />
+<img width="360" height="360" alt="Pocket 1x1 Final Preview" src="https://github.com/user-attachments/assets/2ba494ff-452a-4789-9e55-298051db30f7" /></p>
+
+
 
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  

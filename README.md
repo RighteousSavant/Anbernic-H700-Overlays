@@ -23,8 +23,9 @@ One of the banes of existance is crafting overlays for every single arcade title
 I am including what you will need to setup within the RetroArch Menu for each overlay.  You are welcome to use whatever shader or filter your heart desires.  Please enjoy.
 
 <p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>
-<p align="center"><img width="360" height="240" alt="R Savant-34-DMG-Preview" src="https://github.com/user-attachments/assets/22e3ebb7-b27e-4791-b4d6-5b7c9551f824" />
-<img width="320" height="240" alt="R Savant-40v-DMG-Preview" src="https://github.com/user-attachments/assets/c7445c86-09e3-4bf0-8e03-ce51701c67d2" /></p>  
+<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/e0ffbedb-2e88-413e-8692-e173a5239561" />  
+<img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/b1fbde7b-2688-4896-8edc-033188dad2d4" />  
+<img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/64ec6846-f3bf-4051-8585-799e6e1f9e0b" /></p>
 
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  

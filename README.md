@@ -54,7 +54,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/68bce959-f41e-4ba6-af84-2e026f5d8c41" /></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 3:2 ratio, so only a 4:3 overlay is available.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 3:2 ratio, so only a 4:3 and 1:1 overlay is available.}}$</small></p>
   
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
@@ -105,7 +105,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Sega Master System (256×192)</ins></p>
 <p align="center"><img width="360" height="240" alt="MASTERSYSTEM-34-Preview" src="https://github.com/user-attachments/assets/862cb22a-9c9e-41ce-8333-4b9e377455e2" /></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 overlay is available.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlay is available.}}$</small></p>
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
@@ -131,7 +131,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Sony PlayStation (640×480)</ins></p>
 <p align="center"><img width="360" height="240" alt="PSX-34-Preview" src="https://github.com/user-attachments/assets/eb09c0a9-290a-4b90-bb18-288abccfcc92" /></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 overlay is available.}}$</small></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlay is available.}}$</small></p>
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  

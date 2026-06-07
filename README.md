@@ -8,7 +8,7 @@ NOTE:  Working on 1:1 overlays.  Not all are available at this time.
 <p align="center"><img width="720" height="420" alt="My-devices" src="https://github.com/user-attachments/assets/6f74007f-dc15-4f9e-8afd-1f57ac905c0d" /></p>
 <p align="center"><small>$\color{#D4AF37}{\text{My devices:  RG34XX and RG40XXV}}$</small></p>
 
-Overlays are made for these two handhelds that I own and happily enjoy.  I cannot produce other, untested resolutions, since I don't have the handheld available.  If you have a device that you want overlays for that I don't possess, you're welcome to gift me.
+Overlays are made for these two handhelds that I own and happily enjoy along with the RGXXCube.  I cannot produce other, untested resolutions, since I don't have those handheld available.  If you have a device that you want overlays for that I don't possess, you're welcome to gift me.
 
 In RetroArch, PAR stands for Pixel Aspect Ratio.  This is the ratio I use for my bezels along with a few custom aspects.  All pixels will be perfect..except for two systems (maybe more):  Sega Master System and Nintendo Game Boy Advance (on 4:3 devices).  The Master System has a resolution of 256×192, while the Game Boy Advance has one of 240×160.  So on the devices (minus Game Boy Advance on 3:2 screens), they will scale at 2.5× resolution.  Use of shaders and/or filters can help balance out the screen's accuracy and displayed in-game graphics.
 

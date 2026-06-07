@@ -58,7 +58,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
-<p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/68bce959-f41e-4ba6-af84-2e026f5d8c41" /></p>
+<p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/c7def354-aa8a-41e6-8c54-6573283f23cc" /></p>
+<p align="center"><img width="360" height="360" alt="GBA-Cube-Preview" src="https://github.com/user-attachments/assets/c17a6f20-066f-431e-a576-bda511f16a24" /></p>
+
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 3:2 ratio, so only a 4:3 and 1:1 overlay is available.}}$</small></p>
   
 >· Settings > Video > Scaling  
@@ -85,7 +87,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > 1:1 PAR (20:19 DAR)
 
 <p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
-<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/6ecd3eb4-e20a-42c3-b9ac-c6cfacdcc3fe" />
+<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/6ecd3eb4-e20a-42c3-b9ac-c6cfacdcc3fe" />  
 <img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/84bdb89d-aa5a-4d40-9c80-033ebe433411" /></p>
 
 >· Settings > Video > Scaling  

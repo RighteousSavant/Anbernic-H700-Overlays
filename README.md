@@ -120,12 +120,22 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > 1:1 PAR (4:3 DAR)
 
 <p align="center"><ins>Sega Genesis / CD / 32X (320×224)</ins></p>
-<p align="center"><img width="360" height="240" alt="GENESIS-34-Preview" src="https://github.com/user-attachments/assets/49d752a0-5132-4ef8-b4e4-2246876e4665" />
-<img width="320" height="240" alt="GENESIS-40V-Preview" src="https://github.com/user-attachments/assets/6b03de3f-c474-4d81-aeed-e40693042ed0" /></p>
+<p align="center"><img width="320" height="240" alt="GENESIS-40V-Preview" src="https://github.com/user-attachments/assets/6b03de3f-c474-4d81-aeed-e40693042ed0" /></p>
+<p align="center"><img width="360" height="240" alt="GENESIS-34-Preview" src="https://github.com/user-attachments/assets/49d752a0-5132-4ef8-b4e4-2246876e4665" /></p>
+<p align="center"><img width="360" height="360" alt="GENESIS-Cube-Preview" src="https://github.com/user-attachments/assets/a5ea3c38-8ff9-4dfa-9621-e0c1712342b9" />
 
->· Settings > Video > Scaling  
+
+>· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:7 DAR)
+
+>· Settings > Video > Scaling  (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 448
+
+
 
 <p align="center"><ins>SNK NEO·GEO (320×224)</ins></p>
 <p align="center"><img width="360" height="240" alt="NEOGEO-3x2-Preview" src="https://github.com/user-attachments/assets/3c8b0ec8-157a-4f14-a61d-b19b1c207bb9" />

@@ -79,9 +79,10 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
   
 <p align="center"><ins>SNK NEO·GEO Pocket Color (160×152)</ins></p>
-<p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/741a473f-7deb-48d8-9624-50c95b4710e4" />
-<img width="320" height="240" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/e71988fa-833f-4bfb-bbf9-1ee5482dd002" /></p>
-
+<p align="center"><img width="320" height="240" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/1814f09a-91b8-4e62-badf-ac68bf542012" /></p>
+<p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/c82cd386-a401-4e1e-9f96-3354abddda95" /></p>
+<p align="center"><img width="360" height="360" alt="NGPC-Cube-Preview" src="https://github.com/user-attachments/assets/20b81838-1048-48ed-87f6-cd4234d55357" /></p>
+  
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (20:19 DAR)

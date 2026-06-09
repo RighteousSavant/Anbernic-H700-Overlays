@@ -132,8 +132,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Settings > Video > Scaling  (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
-&emsp;· Custom Aspect Ratio (Width) > 640  
-&emsp;· Custom Aspect Ratio (Height) > 448
+&emsp;· Custom Aspect Ratio (Width) > 720  
+&emsp;· Custom Aspect Ratio (Height) > 504
 
 
 

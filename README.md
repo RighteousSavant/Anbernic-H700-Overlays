@@ -31,9 +31,15 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· GB Colorization > Internal  
 &emsp;· Internal Palette > GB - DMG  
 
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  
-&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
+
+>· Settings > Video > Scaling  (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 576 
 
 <p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>
 <p align="center"><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/b729be5f-bda3-49e4-adaa-e7a0aff3a6c5" /></p>
@@ -44,9 +50,15 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· GB Colorization > Internal  
 &emsp;· Internal Palette > GB - Pocket  
 
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  
-&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
+
+>· Settings > Video > Scaling  (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 576
 
 <p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>
 <p align="center"><img width="320" height="240" alt="GBC-40V-Preview" src="https://github.com/user-attachments/assets/2d5d59fe-595e-4981-baa3-dfdf62060f6b" /></p>
@@ -74,9 +86,15 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Quick Menu > Core Options > Video  
 &emsp;· Hide Master System Side Borders > Left Border Only  
 
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  
-&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
+
+>· Settings > Video > Scaling  (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 576
   
 <p align="center"><ins>SNK NEO·GEO Pocket Color (160×152)</ins></p>
 <p align="center"><img width="320" height="240" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/1814f09a-91b8-4e62-badf-ac68bf542012" /></p>
@@ -86,6 +104,12 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (20:19 DAR)
+
+>· Settings > Video > Scaling  (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 608  
 
 <p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
 <p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/84bdb89d-aa5a-4d40-9c80-033ebe433411" /></p>

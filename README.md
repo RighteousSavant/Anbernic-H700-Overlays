@@ -88,24 +88,25 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > 1:1 PAR (20:19 DAR)
 
 <p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
-<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/6ecd3eb4-e20a-42c3-b9ac-c6cfacdcc3fe" />  
-<img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/84bdb89d-aa5a-4d40-9c80-033ebe433411" /></p>
+<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/84bdb89d-aa5a-4d40-9c80-033ebe433411" /></p>
+<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/6ecd3eb4-e20a-42c3-b9ac-c6cfacdcc3fe" /></p> 
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Aspect Ratio > 1:1 PAR (16:15 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (16:15 DAR)  
 
 <p align="center"><ins>Nintendo Entertainment System (256×224)</ins></p>
-<p align="center"><img width="360" height="240" alt="NES-34-Preview" src="https://github.com/user-attachments/assets/619c25a0-0bb4-4bdb-8b2f-94342b734cb2" />
-<img width="320" height="240" alt="NES-40V-Preview" src="https://github.com/user-attachments/assets/171c8b08-3072-4a81-a187-6ce458bdc0ce" /></p>
-
+<p align="center"><img width="320" height="240" alt="NES-40V-Preview" src="https://github.com/user-attachments/assets/171c8b08-3072-4a81-a187-6ce458bdc0ce" /></p>
+<p align="center"><img width="360" height="240" alt="NES-34-Preview" src="https://github.com/user-attachments/assets/619c25a0-0bb4-4bdb-8b2f-94342b734cb2" /></p>
+  
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
 
 <p align="center"><ins>Super Nintendo Entertainment System (256×224)</ins></p>
-<p align="center"><img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/3ce5c4d3-e41f-4469-9534-004815a108a0" />
-<img width="320" height="240" alt="SNES-40V-Preview" src="https://github.com/user-attachments/assets/cc7f0890-87c8-48ae-9eaf-46f582a2b2ad" /></p>
+<p align="center"><img width="320" height="240" alt="SNES-40V-Preview" src="https://github.com/user-attachments/assets/cc7f0890-87c8-48ae-9eaf-46f582a2b2ad" /></p>
+<p align="center"><img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/3ce5c4d3-e41f-4469-9534-004815a108a0" /></p>
+
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
@@ -122,30 +123,25 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <p align="center"><ins>Sega Genesis / CD / 32X (320×224)</ins></p>
 <p align="center"><img width="320" height="240" alt="GENESIS-40V-Preview" src="https://github.com/user-attachments/assets/6b03de3f-c474-4d81-aeed-e40693042ed0" /></p>
 <p align="center"><img width="360" height="240" alt="GENESIS-34-Preview" src="https://github.com/user-attachments/assets/49d752a0-5132-4ef8-b4e4-2246876e4665" /></p>
-<p align="center"><img width="360" height="360" alt="GENESIS-Cube-Preview" src="https://github.com/user-attachments/assets/a5ea3c38-8ff9-4dfa-9621-e0c1712342b9" />
-
+<p align="center"><img width="360" height="360" alt="GENESIS-Cube-Preview" src="https://github.com/user-attachments/assets/a5ea3c38-8ff9-4dfa-9621-e0c1712342b9" /></p>
 
 >· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:7 DAR)
 
->· Settings > Video > Scaling  (for 1:1)  
-&emsp;· Integer Scale > OFF  
-&emsp;· Aspect Ratio > Custom  
-&emsp;· Custom Aspect Ratio (Width) > 720  
-&emsp;· Custom Aspect Ratio (Height) > 504
-
-
-
 <p align="center"><ins>SNK NEO·GEO (320×224)</ins></p>
-<p align="center"><img width="360" height="240" alt="NEOGEO-3x2-Preview" src="https://github.com/user-attachments/assets/3c8b0ec8-157a-4f14-a61d-b19b1c207bb9" />
-<img width="320" height="240" alt="NEOGEO-4x3-Preview" src="https://github.com/user-attachments/assets/1c84ce91-5ea5-4c13-9dc8-02d9c33b80be" />
+<p align="center"><img width="360" height="240" alt="NEOGEO-3x2-Preview" src="https://github.com/user-attachments/assets/3c8b0ec8-157a-4f14-a61d-b19b1c207bb9" /></p>  
+<p align="center"><img width="320" height="240" alt="NEOGEO-4x3-Preview" src="https://github.com/user-attachments/assets/1c84ce91-5ea5-4c13-9dc8-02d9c33b80be" /></p>
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
+>. For 4:3 and 3:2  
 &emsp;· Custom Aspect Ratio (Width) > 640  
-&emsp;· Custom Aspect Ratio (Height) > 448
+&emsp;· Custom Aspect Ratio (Height) > 448  
+>. For 1:1  
+&emsp;· Custom Aspect Ratio (Width) > 720  
+&emsp;· Custom Aspect Ratio (Height) > 504  
 
 <p align="center"><ins>Sony PlayStation (640×480)</ins></p>
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlays are available.}}$</small></p>

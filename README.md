@@ -65,9 +65,16 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <p align="center"><img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/cbc1edca-e185-43e2-8e90-c28b2731afc6" /></p>
 <p align="center"><img width="360" height="360" alt="GBC-Cube-Preview" src="https://github.com/user-attachments/assets/1158c6d3-95eb-4e54-b1f4-f68fde620cf8" /></p>
 
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
+
+>· Settings > Video > Scaling (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 576 
+
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 3:2 ratio, so only a 4:3 and 1:1 overlays are available.}}$</small></p>

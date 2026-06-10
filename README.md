@@ -148,9 +148,10 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 560  
 
-<p align="center"><ins>Super Nintendo Entertainment System (256×224)</ins></p>
-<p align="center"><img width="320" height="240" alt="SNES-40V-Preview" src="https://github.com/user-attachments/assets/cc7f0890-87c8-48ae-9eaf-46f582a2b2ad" /></p>
-<p align="center"><img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/3ce5c4d3-e41f-4469-9534-004815a108a0" /></p>
+<p align="center"><ins>Super Nintendo Entertainment System (256×224)</ins></p>  
+<p align="center"><img width="320" height="240" alt="SNES-40V-Preview" src="https://github.com/user-attachments/assets/fd5234d1-a06b-4e54-892e-f4b6323c1835" /></p>  
+<p align="center"><img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/12ff565b-3d13-4dec-841e-ccb5a696a7bd" /></p>  
+<p align="center"><img width="360" height="360" alt="SNES-Cube-Preview" src="https://github.com/user-attachments/assets/b1b1a02a-d887-492d-87ff-c598a787ce09" /></p>
 
 >· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  

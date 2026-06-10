@@ -131,25 +131,35 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
-&emsp;· Custom Aspect Ratio (Height) > 600
-
+&emsp;· Custom Aspect Ratio (Height) > 600  
 
 <p align="center"><ins>Nintendo Entertainment System (256×224)</ins></p>
 <p align="center"><img width="320" height="240" alt="NES-40V-Preview" src="https://github.com/user-attachments/assets/171c8b08-3072-4a81-a187-6ce458bdc0ce" /></p>
 <p align="center"><img width="360" height="240" alt="NES-34-Preview" src="https://github.com/user-attachments/assets/619c25a0-0bb4-4bdb-8b2f-94342b734cb2" /></p>
   
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
+
+>· Settings > Video > Scaling (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 560  
 
 <p align="center"><ins>Super Nintendo Entertainment System (256×224)</ins></p>
 <p align="center"><img width="320" height="240" alt="SNES-40V-Preview" src="https://github.com/user-attachments/assets/cc7f0890-87c8-48ae-9eaf-46f582a2b2ad" /></p>
 <p align="center"><img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/3ce5c4d3-e41f-4469-9534-004815a108a0" /></p>
 
-
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
+
+>· Settings > Video > Scaling (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 560   
 
 <p align="center"><ins>Sega Master System (256×192)</ins></p>
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlays are available.}}$</small></p>

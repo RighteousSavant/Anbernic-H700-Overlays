@@ -31,11 +31,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· GB Colorization > Internal  
 &emsp;· Internal Palette > GB - DMG  
 
->· Settings > Video > Scaling  (not 1:1)  
+>· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
 
->· Settings > Video > Scaling  (for 1:1)  
+>· Settings > Video > Scaling (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
@@ -50,11 +50,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· GB Colorization > Internal  
 &emsp;· Internal Palette > GB - Pocket  
 
->· Settings > Video > Scaling  (not 1:1)  
+>· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
 
->· Settings > Video > Scaling  (for 1:1)  
+>· Settings > Video > Scaling (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
@@ -86,11 +86,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Quick Menu > Core Options > Video  
 &emsp;· Hide Master System Side Borders > Left Border Only  
 
->· Settings > Video > Scaling  (not 1:1)  
+>· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
 
->· Settings > Video > Scaling  (for 1:1)  
+>· Settings > Video > Scaling (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
@@ -101,23 +101,31 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/c82cd386-a401-4e1e-9f96-3354abddda95" /></p>
 <p align="center"><img width="360" height="360" alt="NGPC-Cube-Preview" src="https://github.com/user-attachments/assets/20b81838-1048-48ed-87f6-cd4234d55357" /></p>
   
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (20:19 DAR)
 
->· Settings > Video > Scaling  (for 1:1)  
+>· Settings > Video > Scaling (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 608  
 
 <p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
-<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/84bdb89d-aa5a-4d40-9c80-033ebe433411" /></p>
-<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/6ecd3eb4-e20a-42c3-b9ac-c6cfacdcc3fe" /></p> 
+<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/f8a35c2f-871a-42ce-bb04-6327de9089bc" /></p>  
+<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/550f2d54-3bbc-4c0d-95f4-f1911ab7013c" /></p>
+<p align="center"><img width="360" height="360" alt="TG16-Cube-Preview" src="https://github.com/user-attachments/assets/1115a265-2230-4b72-bf7b-a1ce731b30a9" /></p>
 
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
-&emsp;· Aspect Ratio > 1:1 PAR (16:15 DAR)  
+&emsp;· Aspect Ratio > 1:1 PAR (16:15 DAR)
+
+>· Settings > Video > Scaling (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 640  
+&emsp;· Custom Aspect Ratio (Height) > 600
+
 
 <p align="center"><ins>Nintendo Entertainment System (256×224)</ins></p>
 <p align="center"><img width="320" height="240" alt="NES-40V-Preview" src="https://github.com/user-attachments/assets/171c8b08-3072-4a81-a187-6ce458bdc0ce" /></p>

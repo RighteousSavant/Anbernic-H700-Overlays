@@ -187,6 +187,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:7 DAR)
 
+>· Settings > Video > Scaling  (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Custom Aspect Ratio (Width) > 720  
+&emsp;· Custom Aspect Ratio (Height) > 504  
+
 <p align="center"><ins>SNK NEO·GEO (320×224)</ins></p>
 <p align="center"><img width="360" height="240" alt="NEOGEO-3x2-Preview" src="https://github.com/user-attachments/assets/3c8b0ec8-157a-4f14-a61d-b19b1c207bb9" /></p>  
 <p align="center"><img width="320" height="240" alt="NEOGEO-4x3-Preview" src="https://github.com/user-attachments/assets/1c84ce91-5ea5-4c13-9dc8-02d9c33b80be" /></p>
@@ -202,10 +207,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 504  
 
 <p align="center"><ins>Sony PlayStation (640×480)</ins></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlays are available.}}$</small></p>
-<p align="center"><img width="360" height="240" alt="PSX-34-Preview" src="https://github.com/user-attachments/assets/eb09c0a9-290a-4b90-bb18-288abccfcc92" /></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlays are available.}}$</small></p>  
+<p align="center"><img width="360" height="240" alt="PSX-34-Preview" src="https://github.com/user-attachments/assets/12ea888b-e8c8-4474-917c-d6f678c5ee71" />  
+<p align="center"><img width="360" height="360" alt="PSX-Cube-Preview" src="https://github.com/user-attachments/assets/c0b7db80-d59b-4a83-b760-a92b58f61183" />
 
->· Settings > Video > Scaling
+>· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (4:3 DAR)
 

@@ -211,9 +211,14 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <p align="center"><img width="360" height="240" alt="PSX-34-Preview" src="https://github.com/user-attachments/assets/12ea888b-e8c8-4474-917c-d6f678c5ee71" />  
 <p align="center"><img width="360" height="360" alt="PSX-Cube-Preview" src="https://github.com/user-attachments/assets/c0b7db80-d59b-4a83-b760-a92b58f61183" />
 
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling (for 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (4:3 DAR)
+
+>· Settings > Video > Scaling  (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Custom Aspect Ratio (Width) > 720  
+&emsp;· Custom Aspect Ratio (Height) > 540  
 
 ## Feedback is always welcome!
 If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  

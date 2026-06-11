@@ -164,12 +164,19 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 560   
 
 <p align="center"><ins>Sega Master System (256×192)</ins></p>
-<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlays are available.}}$</small></p>
-<p align="center"><img width="360" height="240" alt="MASTERSYSTEM-34-Preview" src="https://github.com/user-attachments/assets/862cb22a-9c9e-41ce-8333-4b9e377455e2" /></p>
+<p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlays are available.}}$</small></p>  
+<p align="center"><img width="360" height="240" alt="MASTERSYSTEM-34-Preview" src="https://github.com/user-attachments/assets/b33a2d4c-a235-4996-b003-d29341d65a0b" /></p>  
+<p align="center"><img width="360" height="360 " alt="MASTERSYSTEM-Cube-Preview" src="https://github.com/user-attachments/assets/d273e448-cada-4127-b411-b4665fb0ca50" /></p>
 
->· Settings > Video > Scaling  
+>· Settings > Video > Scaling  (for 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (4:3 DAR)
+
+>· Settings > Video > Scaling (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 720  
+&emsp;· Custom Aspect Ratio (Height) > 540
 
 <p align="center"><ins>Sega Genesis / CD / 32X (320×224)</ins></p>
 <p align="center"><img width="320" height="240" alt="GENESIS-40V-Preview" src="https://github.com/user-attachments/assets/6b03de3f-c474-4d81-aeed-e40693042ed0" /></p>

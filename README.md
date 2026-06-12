@@ -192,9 +192,10 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 720  
 &emsp;· Custom Aspect Ratio (Height) > 504  
 
-<p align="center"><ins>SNK NEO·GEO (320×224)</ins></p>
-<p align="center"><img width="360" height="240" alt="NEOGEO-3x2-Preview" src="https://github.com/user-attachments/assets/3c8b0ec8-157a-4f14-a61d-b19b1c207bb9" /></p>  
-<p align="center"><img width="320" height="240" alt="NEOGEO-4x3-Preview" src="https://github.com/user-attachments/assets/1c84ce91-5ea5-4c13-9dc8-02d9c33b80be" /></p>
+<p align="center"><ins>SNK NEO·GEO (320×224)</ins></p>  
+<p align="center"><img width="320" height="240" alt="NEOGEO-4x3-Preview" src="https://github.com/user-attachments/assets/94c210da-a61f-4f7b-913c-591a11ce4722" /></p>  
+<p align="center"><img width="360" height="240" alt="NEOGEO-3x2-Preview" src="https://github.com/user-attachments/assets/378d3b13-0d05-4c4c-b0d1-a4f031dfae8e" /></p>  
+<p align="center"><img width="360" height="360" alt="NEOGEO-1x1-Preview" src="https://github.com/user-attachments/assets/df41e66c-3ab9-4db3-b7cf-152838fb51a9" /></p>
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > OFF  

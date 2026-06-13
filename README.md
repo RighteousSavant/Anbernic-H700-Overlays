@@ -119,9 +119,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 608  
 
 <p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
-<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/f8a35c2f-871a-42ce-bb04-6327de9089bc" /></p>  
-<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/550f2d54-3bbc-4c0d-95f4-f1911ab7013c" /></p>
-<p align="center"><img width="360" height="360" alt="TG16-Cube-Preview" src="https://github.com/user-attachments/assets/1115a265-2230-4b72-bf7b-a1ce731b30a9" /></p>
+<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/e824acfd-d420-42fd-89c9-5f1272ff48f5" /></p>  
+<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/dc5844ab-7008-46b3-99b6-0fb4dab1a876" /></p>  
+<p align="center"><img width="360" height="360" alt="TG16-Cube-Preview" src="https://github.com/user-attachments/assets/b809e4fa-00a9-4f09-9fd4-818c2db3a416" /></p>  
 
 >· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  

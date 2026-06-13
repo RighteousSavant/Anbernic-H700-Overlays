@@ -230,5 +230,5 @@ If you wish to reach out to me with any feedback about the overlays, I recommend
 
 Please be sure the respect the rules for each individual server.  
 
-<p align="center"><img width="643" height="322" alt="play nice wip 7" src="https://github.com/user-attachments/assets/f0d993de-60eb-4f18-b23e-91220dc69272" /></p>
+<p align="center"><img width="360" height="180" alt="play nice wip 7" src="https://github.com/user-attachments/assets/f0d993de-60eb-4f18-b23e-91220dc69272" /></p>
 

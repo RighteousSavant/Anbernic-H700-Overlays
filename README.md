@@ -86,9 +86,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > 1:1 PAR (3:2 DAR)
 
 <p align="center"><ins>Sega Game Gear (160×144)</ins></p>
-<p align="center"><img width="320" height="240" alt="GAMEGEAR-40V-Preview" src="https://github.com/user-attachments/assets/0518904b-e314-4753-89ca-60532fb6ac2f" /></p>
-<p align="center"><img width="360" height="240" alt="GAMEGEAR-34-Preview" src="https://github.com/user-attachments/assets/ab7bf986-73f4-4657-afdd-b4aa45d02206" /></p>
-<p align="center"><img width="360" height="360" alt="GAMEGEAR-Cube-Preview" src="https://github.com/user-attachments/assets/d1199f2c-2446-4c43-89ce-0b840db979ec" /></p>
+<p align="center"><img width="320" height="240" alt="GAMEGEAR-40V-Preview" src="https://github.com/user-attachments/assets/89fb0899-ee7b-4940-b18f-2dc94ac6c02a" /></p>  
+<p align="center"><img width="360" height="240" alt="GAMEGEAR-34-Preview" src="https://github.com/user-attachments/assets/892a3c6f-b2eb-4fec-91a3-e58063ba25af" /></p>  
+<p align="center"><img width="360" height="360" alt="GAMEGEAR-Cube-Preview" src="https://github.com/user-attachments/assets/15c50d9f-992d-451e-9c2c-eb59875bc8b9" /></p>  
 
 >· Quick Menu > Core Options > Video  
 &emsp;· Hide Master System Side Borders > Left Border Only  

@@ -22,10 +22,10 @@ One of the banes of existance is crafting overlays for every single arcade title
 ## Here are the overlays available!
 I am including what you will need to setup within the RetroArch Menu for each overlay.  You are welcome to use whatever shader or filter your heart desires.  Please enjoy.
 
-<p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>
-<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/e0ffbedb-2e88-413e-8692-e173a5239561" /></p>
-<p align="center"><img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/b1fbde7b-2688-4896-8edc-033188dad2d4" /></p>
-<p align="center"><img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/64ec6846-f3bf-4051-8585-799e6e1f9e0b" /></p>
+<p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>  
+<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" /></p>  
+<p align="center"><img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" /></p>  
+<p align="center"><img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/dda86f14-0edc-4980-8f83-3f297064e900" /></p>  
 
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  
@@ -41,10 +41,10 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 576 
 
-<p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>
-<p align="center"><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/b729be5f-bda3-49e4-adaa-e7a0aff3a6c5" /></p>
-<p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/96ec34da-7512-4745-a672-c8ff37a3f91c" /></p>
-<p align="center"><img width="360" height="360" alt="GBP-Cube-Preview" src="https://github.com/user-attachments/assets/7971f456-bc4f-4ae2-b96d-c1fb07f51f94" /></p>
+<p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>  
+<p align="center"><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/cadf85b0-b758-4fab-8de3-41723a5a10c9" /></p>  
+<p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/ee943a1d-3424-475a-a09a-dba25625f776" /></p>  
+<p align="center"><img width="360" height="360" alt="GBP-Cube-Preview" src="https://github.com/user-attachments/assets/edcd2f02-88db-44f9-a7f5-5b59a8412c98" /></p>  
 
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  
@@ -60,10 +60,10 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 576
 
-<p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>
-<p align="center"><img width="320" height="240" alt="GBC-40V-Preview" src="https://github.com/user-attachments/assets/2d5d59fe-595e-4981-baa3-dfdf62060f6b" /></p>
-<p align="center"><img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/cbc1edca-e185-43e2-8e90-c28b2731afc6" /></p>
-<p align="center"><img width="360" height="360" alt="GBC-Cube-Preview" src="https://github.com/user-attachments/assets/1158c6d3-95eb-4e54-b1f4-f68fde620cf8" /></p>
+<p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>  
+<p align="center"><img width="320" height="240" alt="GBC-40V-Preview" src="https://github.com/user-attachments/assets/d02166ec-b789-49fa-b67f-7b37f4708741" /></p>  
+<p align="center"><img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/de9d1153-ac5d-4404-b299-09231b2ac24e" /></p>  
+<p align="center"><img width="360" height="360" alt="GBC-Cube-Preview" src="https://github.com/user-attachments/assets/f3cd1bde-3829-4700-889b-13dd16a021c7" /></p>  
 
 >· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  

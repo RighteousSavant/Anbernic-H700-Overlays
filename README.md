@@ -222,7 +222,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 540  
 
 ## Feedback is always welcome!
-If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  
+If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new servers.  I'm on the following:  
   
 [FinalBurn Neo](https://discord.gg/pV7BkTYbH)  
 [KNULLI](https://discord.gg/d9PYJjuhr)  

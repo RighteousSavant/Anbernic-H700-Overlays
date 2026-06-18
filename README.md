@@ -17,10 +17,13 @@ Russ from RetroGameCorps has an excellent guide and breakdown of how to install 
 or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.
 
 ## About arcade overlays...
-One of the banes of existance is crafting overlays for every single arcade title, as they have a variety of resolutions.  That being said, rejoice!  Our community friend, Phanturian, has a phenomenal Arcade Bezel pack for arcade games at 640×480.  [Check out his Reddit post!](https://www.reddit.com/r/SBCGaming/comments/1fw4qrk/)
+One of the banes of existance is crafting overlays for every single arcade title, as they have a variety of resolutions.  That being said, rejoice!  Our community friend, [Phanturian](https://www.reddit.com/user/Phanturian/), has a phenomenal Arcade Bezel pack for arcade games at 640×480.  [Check out his Reddit post!](https://www.reddit.com/r/SBCGaming/comments/1fw4qrk/)
 
-## Here are the overlays available!
-I am including what you will need to setup within the RetroArch Menu for each overlay.  You are welcome to use whatever shader or filter your heart desires.  Please enjoy.
+## Here are the KNULLI overlays:  
+Thanks to [chrizzo](https://github.com/chrizzo-hb) and [mugwomp93](https://github.com/mugwomp93), I have created an overlay pack for ease of use.  Simply decompress the file directly into your /SHARE/ folder.  Imporantly, there can be NO overrides in RetroArch.  You can still adjust Core Options and Shaders to your desired liking.  Please enjoy!
+
+## For non-KNULLI users:  
+I am including what you will need to setup within the RetroArch Menu for each overlay.
 
 <p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>  
 <p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" /></p>  

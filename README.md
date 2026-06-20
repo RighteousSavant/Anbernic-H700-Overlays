@@ -20,7 +20,9 @@ Thanks to [chrizzo](https://github.com/chrizzo-hb) and [mugwomp93](https://githu
 I am including what you will need to setup within the RetroArch Menu for each overlay.  Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d) or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.  
 
 <p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>  
-<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" />  <img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" />  <img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/dda86f14-0edc-4980-8f83-3f297064e900" /></p>  
+<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" />  
+<img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" />  
+<img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/dda86f14-0edc-4980-8f83-3f297064e900" /></p>  
 
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  
@@ -37,9 +39,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 576 
 
 <p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>  
-<p align="center"><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/cadf85b0-b758-4fab-8de3-41723a5a10c9" /></p>  
-<p align="center"><img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/ee943a1d-3424-475a-a09a-dba25625f776" /></p>  
-<p align="center"><img width="360" height="360" alt="GBP-Cube-Preview" src="https://github.com/user-attachments/assets/edcd2f02-88db-44f9-a7f5-5b59a8412c98" /></p>  
+<p align="center"><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/cadf85b0-b758-4fab-8de3-41723a5a10c9" />  
+<img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/ee943a1d-3424-475a-a09a-dba25625f776" />  
+<img width="360" height="360" alt="GBP-Cube-Preview" src="https://github.com/user-attachments/assets/edcd2f02-88db-44f9-a7f5-5b59a8412c98" /></p>  
 
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  
@@ -56,9 +58,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 576
 
 <p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>  
-<p align="center"><img width="320" height="240" alt="GBC-40V-Preview" src="https://github.com/user-attachments/assets/d02166ec-b789-49fa-b67f-7b37f4708741" /></p>  
-<p align="center"><img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/de9d1153-ac5d-4404-b299-09231b2ac24e" /></p>  
-<p align="center"><img width="360" height="360" alt="GBC-Cube-Preview" src="https://github.com/user-attachments/assets/f3cd1bde-3829-4700-889b-13dd16a021c7" /></p>  
+<p align="center"><img width="320" height="240" alt="GBC-40V-Preview" src="https://github.com/user-attachments/assets/d02166ec-b789-49fa-b67f-7b37f4708741" />  
+<img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/de9d1153-ac5d-4404-b299-09231b2ac24e" />  
+<img width="360" height="360" alt="GBC-Cube-Preview" src="https://github.com/user-attachments/assets/f3cd1bde-3829-4700-889b-13dd16a021c7" /></p>  
 
 >· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
@@ -73,8 +75,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 3:2 ratio, so only a 4:3 and 1:1 overlays are available.}}$</small></p>  
-<p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/92e6e355-ba4a-44dc-ae83-441a91d175ae" /></p>  
-<p align="center"><img width="360" height="360" alt="GBA-Cube-Preview" src="https://github.com/user-attachments/assets/db7af59a-e8e9-47ff-84f1-d0502f44a3aa" /></p>  
+<p align="center"><img width="320" height="240" alt="GBA-40V-Preview" src="https://github.com/user-attachments/assets/92e6e355-ba4a-44dc-ae83-441a91d175ae" />  
+<img width="360" height="360" alt="GBA-Cube-Preview" src="https://github.com/user-attachments/assets/db7af59a-e8e9-47ff-84f1-d0502f44a3aa" /></p>  
   
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  

@@ -83,9 +83,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > 1:1 PAR (3:2 DAR)
 
 <p align="center"><ins>Sega Game Gear (160×144)</ins></p>
-<p align="center"><img width="320" height="240" alt="GAMEGEAR-40V-Preview" src="https://github.com/user-attachments/assets/64024e73-89d2-4a62-98bf-07f71a603fbe" /></p>  
-<p align="center"><img width="360" height="240" alt="GAMEGEAR-34-Preview" src="https://github.com/user-attachments/assets/6c078920-fbb1-448b-928c-b51da37137e8" /></p>  
-<p align="center"><img width="360" height="360" alt="GAMEGEAR-Cube-Preview" src="https://github.com/user-attachments/assets/465c2799-64f9-4e4f-a052-9e5b7c89bf5c" /></p>  
+<p align="center"><img width="320" height="240" alt="GAMEGEAR-40V-Preview" src="https://github.com/user-attachments/assets/64024e73-89d2-4a62-98bf-07f71a603fbe" />  
+<img width="360" height="240" alt="GAMEGEAR-34-Preview" src="https://github.com/user-attachments/assets/6c078920-fbb1-448b-928c-b51da37137e8" />  
+<img width="360" height="360" alt="GAMEGEAR-Cube-Preview" src="https://github.com/user-attachments/assets/465c2799-64f9-4e4f-a052-9e5b7c89bf5c" /></p>  
 
 >· Quick Menu > Core Options > Video  
 &emsp;· Hide Master System Side Borders > Left Border Only  
@@ -101,9 +101,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 576
   
 <p align="center"><ins>SNK NEO·GEO Pocket Color (160×152)</ins></p>
-<p align="center"><img width="320" height="240" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/37363ff5-4ade-4816-bc38-c96e0581f525" /></p>  
-<p align="center"><img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/087502ed-79a8-455a-b6b8-e08925d5b46b" /></p>  
-<p align="center"><img width="360" height="360" alt="NGPC-Cube-Preview" src="https://github.com/user-attachments/assets/e3dfa2eb-155d-4df0-8b86-89f80cca8455" /></p>  
+<p align="center"><img width="320" height="240" alt="NGPC-40V-Preview" src="https://github.com/user-attachments/assets/37363ff5-4ade-4816-bc38-c96e0581f525" />  
+<img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/087502ed-79a8-455a-b6b8-e08925d5b46b" />  
+<img width="360" height="360" alt="NGPC-Cube-Preview" src="https://github.com/user-attachments/assets/e3dfa2eb-155d-4df0-8b86-89f80cca8455" /></p>  
 
 >· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  

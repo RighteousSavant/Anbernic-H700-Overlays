@@ -20,9 +20,7 @@ Thanks to [chrizzo](https://github.com/chrizzo-hb) and [mugwomp93](https://githu
 I am including what you will need to setup within the RetroArch Menu for each overlay.  Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d) or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.  
 
 <p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>  
-<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" /></p>  
-<p align="center"><img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" /></p>  
-<p align="center"><img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/dda86f14-0edc-4980-8f83-3f297064e900" /></p>  
+<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" />  <img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" />  <img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/dda86f14-0edc-4980-8f83-3f297064e900" /></p>  
 
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  

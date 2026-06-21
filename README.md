@@ -115,10 +115,15 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 608  
 
-<p align="center"><ins>NEC TurboGrafx-16 / CD / Super Grafx (256×239)</ins></p>
-<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/e824acfd-d420-42fd-89c9-5f1272ff48f5" /></p>  
-<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/dc5844ab-7008-46b3-99b6-0fb4dab1a876" /></p>  
-<p align="center"><img width="360" height="360" alt="TG16-Cube-Preview" src="https://github.com/user-attachments/assets/b809e4fa-00a9-4f09-9fd4-818c2db3a416" /></p>  
+<p align="center"><ins>NEC TurboGrafx-16 / PC Engine (256×239)</ins></p>
+<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/e824acfd-d420-42fd-89c9-5f1272ff48f5" />  
+<img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/dc5844ab-7008-46b3-99b6-0fb4dab1a876" />  
+<img width="360" height="360" alt="TG16-Cube-Preview" src="https://github.com/user-attachments/assets/b809e4fa-00a9-4f09-9fd4-818c2db3a416" /></p>  
+
+<p align="center"><ins>Super Grafx (256×239)</ins></p>
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-SUPERGRAFX-Preview" src="https://github.com/user-attachments/assets/0e0080d0-c8e9-4db8-9e51-4d0ed086f5e9" />  
+<img width="360" height="240" alt="R Savant-3x2-SUPERGRAFX-Preview" src="https://github.com/user-attachments/assets/a9299e04-179b-4856-a862-1265c91466c4" />  
+<img width="360" height="360" alt="R Savant-Cube-SUPERGRAFX-Preview" src="https://github.com/user-attachments/assets/265f8a3a-c664-41cc-82f5-1473ae979cc2" /></p>  
 
 >· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  

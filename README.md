@@ -19,14 +19,14 @@ Thanks to [chrizzo](https://github.com/chrizzo-hb) and [mugwomp93](https://githu
 ## For non-KNULLI users:  
 I am including what you will need to setup within the RetroArch Menu for each overlay.  Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d) or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.  
 
-<p align="center"><ins>Nintendo Game Boy (DMG) (160×144)</ins></p>  
-<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" />  
-<img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" />  
-<img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/dda86f14-0edc-4980-8f83-3f297064e900" /></p>  
+<p align="center"><ins>Nintendo Game Boy (DMG) / Game Boy Pocket (160×144)</ins></p>  
+<p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" />  <img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/cadf85b0-b758-4fab-8de3-41723a5a10c9" /></p>
+<p align="center"><img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" />  <img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/ee943a1d-3424-475a-a09a-dba25625f776" /></p>
+<p align="center"><img width="360" height="360" alt="DMG-Cube-Preview" src="https://github.com/user-attachments/assets/dda86f14-0edc-4980-8f83-3f297064e900" />  <img width="360" height="360" alt="GBP-Cube-Preview" src="https://github.com/user-attachments/assets/edcd2f02-88db-44f9-a7f5-5b59a8412c98" /></p>  
 
 >· Quick Menu > Core Options  
 &emsp;· GB Colorization > Internal  
-&emsp;· Internal Palette > GB - DMG  
+&emsp;· Internal Palette > GB - DMG or Pocket  
 
 >· Settings > Video > Scaling (not 1:1)  
 &emsp;· Integer Scale > ON  
@@ -37,25 +37,6 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 576 
-
-<p align="center"><ins>Nintendo Game Boy Pocket (160×144)</ins></p>  
-<p align="center"><img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/cadf85b0-b758-4fab-8de3-41723a5a10c9" />  
-<img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/ee943a1d-3424-475a-a09a-dba25625f776" />  
-<img width="360" height="360" alt="GBP-Cube-Preview" src="https://github.com/user-attachments/assets/edcd2f02-88db-44f9-a7f5-5b59a8412c98" /></p>  
-
->· Quick Menu > Core Options  
-&emsp;· GB Colorization > Internal  
-&emsp;· Internal Palette > GB - Pocket  
-
->· Settings > Video > Scaling (not 1:1)  
-&emsp;· Integer Scale > ON  
-&emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
-
->· Settings > Video > Scaling (for 1:1)  
-&emsp;· Integer Scale > OFF  
-&emsp;· Aspect Ratio > Custom  
-&emsp;· Custom Aspect Ratio (Width) > 640  
-&emsp;· Custom Aspect Ratio (Height) > 576
 
 <p align="center"><ins>Nintendo Game Boy Color (160×144)</ins></p>  
 <p align="center"><img width="320" height="240" alt="GBC-40V-Preview" src="https://github.com/user-attachments/assets/d02166ec-b789-49fa-b67f-7b37f4708741" />  

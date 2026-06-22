@@ -176,10 +176,10 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 720  
 &emsp;· Custom Aspect Ratio (Height) > 504  
 
-<p align="center"><ins>SNK NEO·GEO (320×224)</ins></p>  
-<p align="center"><img width="320" height="240" alt="NEOGEO-4x3-Preview" src="https://github.com/user-attachments/assets/f52c98ef-1b52-4204-b6f5-feb630aad96d" />  
-<img width="360" height="240" alt="NEOGEO-3x2-Preview" src="https://github.com/user-attachments/assets/8183dc9f-0d64-49b8-9c5a-04c5fb4162db" />  
-<img width="360" height="360" alt="NEOGEO-1x1-Preview" src="https://github.com/user-attachments/assets/8b4cd0b1-6db0-4d28-a75f-ed695bea07bd" /></p>  
+<p align="center"><ins>SNK NEO·GEO / NEO·GEO CD (320×224)</ins></p>  
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-NEOGEO-Preview" src="https://github.com/user-attachments/assets/5617d853-47ca-443c-9e33-847499b1a519" />  <img width="320" height="240" alt="R Savant-4x3-NEOGEOCD-Preview" src="https://github.com/user-attachments/assets/e793fbf4-ebd3-4cde-9625-7374d53ac3c1" /></p>  
+<p align="center"><img width="360" height="240" alt="neogeo-3_2-Preview" src="https://github.com/user-attachments/assets/75dc1aa4-7760-47b5-90ae-3ef6a0be6b90" />  <img width="360" height="240" alt="R Savant-3x2-NEOGEOCD-Preview" src="https://github.com/user-attachments/assets/74950611-50ad-4c45-8ee8-5b3c27119fb4" /></p>  
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-NEOGEO-Preview" src="https://github.com/user-attachments/assets/ba52f9a8-635e-4603-a4a6-faa8038c51fd" />  <img width="360" height="360" alt="R Savant-1x1-NEOGEOCD-Preview" src="https://github.com/user-attachments/assets/e4810914-20a8-46a2-a1ed-19dbdc793b42" /></p>  
 
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > OFF  

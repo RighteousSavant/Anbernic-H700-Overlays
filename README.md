@@ -168,9 +168,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 540
 
 <p align="center"><ins>Sega Genesis / Mega Drive (320×224)</ins></p>
-<p align="center"><img width="320" height="240" alt="R Savant-4x3-GENESIS-Preview" src="https://github.com/user-attachments/assets/d7922d75-bf7c-4fb9-8503-2077bde6567a" /></p>  
-<p align="center"><img width="360" height="240" alt="R Savant-3x2-GENESIS-Preview" src="https://github.com/user-attachments/assets/4baa233f-8810-4370-befb-152854d928be" /></p>  
-<p align="center"><img width="360" height="360" alt="R Savant-1x1-GENESIS-Preview" src="https://github.com/user-attachments/assets/02d677ce-fe44-4ebb-aa1a-104b1f513e65" /></p>
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-GENESIS-Preview" src="https://github.com/user-attachments/assets/d7922d75-bf7c-4fb9-8503-2077bde6567a" />  <img width="320" height="240" alt="R Savant-4x3-MEGADRIVE-Preview" src="https://github.com/user-attachments/assets/6f45e0c8-991d-4e2a-9da2-dd2aa17962f0" /></p>  
+<p align="center"><img width="360" height="240" alt="R Savant-3x2-GENESIS-Preview" src="https://github.com/user-attachments/assets/4baa233f-8810-4370-befb-152854d928be" />  <img width="360" height="240" alt="R Savant-3x2-MEGADRIVE-Preview" src="https://github.com/user-attachments/assets/586f964b-d28a-4395-b0f2-1c751eeac46c" /></p>  
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-GENESIS-Preview" src="https://github.com/user-attachments/assets/02d677ce-fe44-4ebb-aa1a-104b1f513e65" />  <img width="360" height="360" alt="R Savant-1x1-MEGADRIVE-Preview" src="https://github.com/user-attachments/assets/c1eacaa2-5bee-4e13-904a-4c800d28c3a4" /></p>  
 
 >· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  

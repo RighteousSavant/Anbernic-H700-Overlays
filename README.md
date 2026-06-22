@@ -98,9 +98,14 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 608  
 
 <p align="center"><ins>NEC TurboGrafx-16 / PC Engine (256×239)</ins></p>
-<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/e824acfd-d420-42fd-89c9-5f1272ff48f5" />  
-<img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/dc5844ab-7008-46b3-99b6-0fb4dab1a876" />  
-<img width="360" height="360" alt="TG16-Cube-Preview" src="https://github.com/user-attachments/assets/b809e4fa-00a9-4f09-9fd4-818c2db3a416" /></p>  
+<p align="center"><img width="320" height="240" alt="TG16-40V-Preview" src="https://github.com/user-attachments/assets/e824acfd-d420-42fd-89c9-5f1272ff48f5" />  <img width="320" height="240" alt="R Savant-4x3-PCENGINE-Preview" src="https://github.com/user-attachments/assets/9796cbb2-4142-4d4f-a6a0-638796c22980" /></p>  
+<p align="center"><img width="360" height="240" alt="TG16-34-Preview" src="https://github.com/user-attachments/assets/dc5844ab-7008-46b3-99b6-0fb4dab1a876" />  <img width="360" height="240" alt="R Savant-3x2-PCENGINE-Preview" src="https://github.com/user-attachments/assets/ece6bf3e-4d6f-479c-97d2-931817e04edd" /></p>
+<p align="center"><img width="360" height="360" alt="TG16-Cube-Preview" src="https://github.com/user-attachments/assets/b809e4fa-00a9-4f09-9fd4-818c2db3a416" />  <img width="360" height="360" alt="R Savant-1x1-PCENGINE-Preview" src="https://github.com/user-attachments/assets/b8b1dade-b5f1-4904-b53f-f2348433acb9" /> </p>
+
+<p align="center"><ins>NEC TurboGrafx-CD / PC Engine CD (256×239)</ins></p>
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/752b87fa-f44e-430b-9f9d-b944bb89bba1" /></p>  
+<p align="center"><img width="360" height="240" alt="R Savant-3x2-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/2ef9bc9f-3486-4312-8f30-dd3a51f20ea6" /></p>  
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/4ca98a21-dcf3-4fdf-b650-2ee2a28aed93" /></p>
 
 <p align="center"><ins>Super Grafx (256×239)</ins></p>
 <p align="center"><img width="320" height="240" alt="R Savant-4x3-SUPERGRAFX-Preview" src="https://github.com/user-attachments/assets/0e0080d0-c8e9-4db8-9e51-4d0ed086f5e9" />  

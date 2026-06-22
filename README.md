@@ -167,10 +167,10 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 720  
 &emsp;· Custom Aspect Ratio (Height) > 540
 
-<p align="center"><ins>Sega Genesis / CD / 32X (320×224)</ins></p>
-<p align="center"><img width="320" height="240" alt="GENESIS-40V-Preview" src="https://github.com/user-attachments/assets/6275bbcd-5c37-4ffb-b71f-1a922b542327" />  
-<img width="360" height="240" alt="GENESIS-34-Preview" src="https://github.com/user-attachments/assets/898b943d-2329-4038-ba55-bc97ef88ec3d" />  
-<img width="360" height="360" alt="GENESIS-Cube-Preview" src="https://github.com/user-attachments/assets/cd256986-7f4f-4668-a9f0-bf5b14499ff6" /></p>
+<p align="center"><ins>Sega Genesis / Mega Drive (320×224)</ins></p>
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-GENESIS-Preview" src="https://github.com/user-attachments/assets/d7922d75-bf7c-4fb9-8503-2077bde6567a" /></p>  
+<p align="center"><img width="360" height="240" alt="R Savant-3x2-GENESIS-Preview" src="https://github.com/user-attachments/assets/4baa233f-8810-4370-befb-152854d928be" /></p>  
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-GENESIS-Preview" src="https://github.com/user-attachments/assets/02d677ce-fe44-4ebb-aa1a-104b1f513e65" /></p>
 
 >· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  

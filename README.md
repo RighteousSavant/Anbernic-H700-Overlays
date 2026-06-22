@@ -169,7 +169,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  
-&emsp;· Aspect Ratio > 1:1 PAR (10:7 DAR)
+&emsp;· Aspect Ratio > 1:1 PAR (10:7 DAR)  
+&emsp;· Viewport Anchor Bias Y > 0.00 (4:3 only)  
 
 >· Settings > Video > Scaling  (for 1:1)  
 &emsp;· Integer Scale > OFF  
@@ -187,6 +188,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >. For 4:3 and 3:2  
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 448  
+&emsp;· Viewport Anchor Bias Y > 0.00 (4:3 only)
+
 >. For 1:1  
 &emsp;· Custom Aspect Ratio (Width) > 720  
 &emsp;· Custom Aspect Ratio (Height) > 504  

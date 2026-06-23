@@ -1,7 +1,6 @@
 # Special Instructions for KNULLI users only!
 
-
-NOTE:  I will not be crafting overlays for Adult, Beta nor Pirate games.  Please do not ask.
+_NOTE:  I will not be crafting overlays for Adult, Beta nor Pirate games.  Please do not ask._
 
 ## VERTICAL LYNX  
 Files must match the No-Intro Database format.  Here are the names:

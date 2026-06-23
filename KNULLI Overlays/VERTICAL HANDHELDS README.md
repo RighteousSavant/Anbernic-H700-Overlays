@@ -12,5 +12,6 @@ Lexis (World) (Aftermarket) (Unl)
 NFL Football (USA, Europe)  
 Raiden (World) (Aftermarket) (Unl)  
 
+I recommend changing one setting in RetroArch:  
 >· Quick Menu > Core Options  
 &emsp;· Auto-rotate Screen > Manual (press Select to rotate if needed)  

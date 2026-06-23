@@ -70,8 +70,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 3:2 ratio, so only a 4:3 and 1:1 overlays are available.}}$</small></p>  
-<p align="center"><img width="320" height="240" alt="R Savant-4x3-GBA-Preview" src="https://github.com/user-attachments/assets/7f8a29a9-0404-44b6-8fbd-9e6df5a40d8e" />  
-<img width="360" height="360" alt="GBA-Cube-Preview" src="https://github.com/user-attachments/assets/db7af59a-e8e9-47ff-84f1-d0502f44a3aa" /></p>  
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-GBA-Preview" src="https://github.com/user-attachments/assets/7f8a29a9-0404-44b6-8fbd-9e6df5a40d8e" /></p>  
+<p align="center"><img width="360" height="360" alt="GBA-Cube-Preview" src="https://github.com/user-attachments/assets/db7af59a-e8e9-47ff-84f1-d0502f44a3aa" /></p>  
   
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
@@ -169,8 +169,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Sega Master System (256×192)</ins></p>
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlays are available.}}$</small></p>  
-<p align="center"><img width="360" height="240" alt="MASTERSYSTEM-34-Preview" src="https://github.com/user-attachments/assets/6c9df4d2-7550-4d1a-b4fe-572ec8e47694" />  
-<img width="360" height="360" alt="MASTERSYSTEM-Cube-Preview" src="https://github.com/user-attachments/assets/f1eaad24-f932-4392-b698-ce46d4535415" /></p>  
+<p align="center"><img width="360" height="240" alt="MASTERSYSTEM-34-Preview" src="https://github.com/user-attachments/assets/6c9df4d2-7550-4d1a-b4fe-572ec8e47694" /></p>  
+<p align="center"><img width="360" height="360" alt="MASTERSYSTEM-Cube-Preview" src="https://github.com/user-attachments/assets/f1eaad24-f932-4392-b698-ce46d4535415" /></p>  
 
 >· Settings > Video > Scaling  (for 3:2)  
 &emsp;· Integer Scale > ON  
@@ -224,8 +224,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Sony PlayStation (640×480)</ins></p>
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 4:3 ratio, so only a 3:2 and 1:1 overlays are available.}}$</small></p>  
-<p align="center"><img width="360" height="240" alt="PSX-34-Preview" src="https://github.com/user-attachments/assets/21e66a67-8ccc-48cf-bd2e-be514b6a57b8" />
-<img width="360" height="360" alt="PSX-Cube-Preview" src="https://github.com/user-attachments/assets/b0f92d96-2723-4ad4-89de-9ae8520a7719" /></p>  
+<p align="center"><img width="360" height="240" alt="PSX-34-Preview" src="https://github.com/user-attachments/assets/21e66a67-8ccc-48cf-bd2e-be514b6a57b8" /></p>  
+<p align="center"><img width="360" height="360" alt="PSX-Cube-Preview" src="https://github.com/user-attachments/assets/b0f92d96-2723-4ad4-89de-9ae8520a7719" /></p>  
 
 >· Settings > Video > Scaling (for 3:2)  
 &emsp;· Integer Scale > ON  

@@ -103,9 +103,9 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <p align="center"><img width="360" height="360" alt="TG16-Cube-Preview" src="https://github.com/user-attachments/assets/b809e4fa-00a9-4f09-9fd4-818c2db3a416" />  <img width="360" height="360" alt="R Savant-1x1-PCENGINE-Preview" src="https://github.com/user-attachments/assets/b8b1dade-b5f1-4904-b53f-f2348433acb9" /> </p>
 
 <p align="center"><ins>NEC TurboGrafx-CD / PC Engine CD (256×239)</ins></p>
-<p align="center"><img width="320" height="240" alt="R Savant-4x3-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/752b87fa-f44e-430b-9f9d-b944bb89bba1" /></p>  
-<p align="center"><img width="360" height="240" alt="R Savant-3x2-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/2ef9bc9f-3486-4312-8f30-dd3a51f20ea6" /></p>  
-<p align="center"><img width="360" height="360" alt="R Savant-1x1-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/4ca98a21-dcf3-4fdf-b650-2ee2a28aed93" /></p>
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-TG16CD-Preview" src="https://github.com/user-attachments/assets/b9f51717-42ee-4418-99b1-a1a13b60d257" />  <img width="320" height="240" alt="R Savant-4x3-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/752b87fa-f44e-430b-9f9d-b944bb89bba1" /></p>  
+<p align="center"><img width="360" height="240" alt="R Savant-3x2-TG16CD-Preview" src="https://github.com/user-attachments/assets/99eab999-2b62-4f14-84fe-363ba2f7bab9" />  <img width="360" height="240" alt="R Savant-3x2-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/2ef9bc9f-3486-4312-8f30-dd3a51f20ea6" /></p>  
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-TG16CD-Preview" src="https://github.com/user-attachments/assets/7d8c6d24-39a5-4ecc-9459-5445c3e4ed79" />  <img width="360" height="360" alt="R Savant-1x1-PCENGINECD-Preview" src="https://github.com/user-attachments/assets/4ca98a21-dcf3-4fdf-b650-2ee2a28aed93" /></p>
 
 <p align="center"><ins>Super Grafx (256×239)</ins></p>
 <p align="center"><img width="320" height="240" alt="R Savant-4x3-SUPERGRAFX-Preview" src="https://github.com/user-attachments/assets/0e0080d0-c8e9-4db8-9e51-4d0ed086f5e9" />  

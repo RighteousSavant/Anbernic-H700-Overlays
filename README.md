@@ -20,6 +20,7 @@ Thanks to [chrizzo](https://github.com/chrizzo-hb) and [mugwomp93](https://githu
 I am including what you will need to setup within the RetroArch Menu for each overlay.  Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d) or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.  
 
 <p align="center"><ins>Atari Lynx (160×102)</ins></p>  
+<p align="center">NOTE:  Working on the vertical overlays now.  They will be posted soon.  Stay tuned!</p>
 
 <p align="center"><img width="320" height="240" alt="R Savant-4x3-LYNX-Preview" src="https://github.com/user-attachments/assets/23ff902e-9608-4552-b90c-e6c9c2a75cd2" />  <img width="360" height="240" alt="R Savant-3x2-LYNX-Preview" src="https://github.com/user-attachments/assets/538c59a9-1ae3-452c-b2f9-620c8524fac1" />  <p align="center"><img width="360" height="360" alt="R Savant-1x1-LYNX-Preview" src="https://github.com/user-attachments/assets/9261c5a6-7f22-4322-9c09-1fa94cab3533" /></p>
 

@@ -75,6 +75,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
   
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
+&emsp;· Integer Scale Scaling > Smart (4:3 only)  
 &emsp;· Aspect Ratio > 1:1 PAR (3:2 DAR)  
 &emsp;· Viewport Anchor Bias Y > 0.00 (4:3 only)
 

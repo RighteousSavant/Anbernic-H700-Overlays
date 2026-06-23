@@ -173,9 +173,12 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <p align="center"><img width="360" height="360" alt="R Savant-1x1-GENESIS-Preview" src="https://github.com/user-attachments/assets/02d677ce-fe44-4ebb-aa1a-104b1f513e65" />  <img width="360" height="360" alt="R Savant-1x1-MEGADRIVE-Preview" src="https://github.com/user-attachments/assets/c1eacaa2-5bee-4e13-904a-4c800d28c3a4" /></p>  
 
 <p align="center"><ins>Sega CD / 32X (320×224)</ins></p>
-<p align="center"><img width="320" height="240" alt="R Savant-4x3-SEGACD-Preview" src="https://github.com/user-attachments/assets/1af2393b-4304-4fbe-bfa0-85797f042d2b" /></p>  
-<p align="center"><img width="360" height="240" alt="R Savant-3x2-SEGACD-Preview" src="https://github.com/user-attachments/assets/59254de8-72e5-43bb-8c86-b659f0652d04" /></p>  
-<p align="center"><img width="360" height="360" alt="R Savant-1x1-SEGACD-Preview" src="https://github.com/user-attachments/assets/1d86ce81-63cb-4854-970e-0032692e952e" /></p>
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-SEGACD-Preview" src="https://github.com/user-attachments/assets/1af2393b-4304-4fbe-bfa0-85797f042d2b" />  
+<img width="320" height="240" alt="R Savant-4x3-SEGA32X-Preview" src="https://github.com/user-attachments/assets/e7413aeb-246a-4cc2-b8f5-c14d2b47aea5" /></p>  
+<p align="center"><img width="360" height="240" alt="R Savant-3x2-SEGACD-Preview" src="https://github.com/user-attachments/assets/59254de8-72e5-43bb-8c86-b659f0652d04" />
+<img width="360" height="240" alt="R Savant-3x2-SEGA32X-Preview" src="https://github.com/user-attachments/assets/74870d58-c6ca-46ad-9911-a5584f082a9d" /></p>  
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-SEGACD-Preview" src="https://github.com/user-attachments/assets/1d86ce81-63cb-4854-970e-0032692e952e" />
+<img width="360" height="360" alt="R Savant-1x1-SEGA32X-Preview" src="https://github.com/user-attachments/assets/0943c2ab-15ad-4282-abdb-16bb940ce427" /></p>
 
 >· Settings > Video > Scaling  (not 1:1)  
 &emsp;· Integer Scale > ON  

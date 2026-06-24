@@ -20,7 +20,6 @@ Thanks to [chrizzo](https://github.com/chrizzo-hb) and [mugwomp93](https://githu
 I am including what you will need to setup within the RetroArch Menu for each overlay.  Russ from RetroGameCorps has an excellent guide and breakdown of how to install these.  You can visit the [Youtube video](https://youtu.be/srlJmZc3Ho4?si=6NIm-BGKxvKOR88d) or the [written guide](https://retrogamecorps.com/2024/09/01/guide-shaders-and-overlays-on-retro-handhelds/).  He is an excellent resource for anyone who is entering as new owners of emulation handhelds.  
 
 <p align="center"><ins>Atari Lynx (160×102)</ins></p>  
-<p align="center">NOTE:  Working on the vertical overlays now.  They will be posted soon.  Stay tuned!</p>
 
 <p align="center"><img width="320" height="240" alt="R Savant-4x3-LYNX-Preview" src="https://github.com/user-attachments/assets/23ff902e-9608-4552-b90c-e6c9c2a75cd2" />  <img width="360" height="240" alt="R Savant-3x2-LYNX-Preview" src="https://github.com/user-attachments/assets/538c59a9-1ae3-452c-b2f9-620c8524fac1" />  <p align="center"><img width="360" height="360" alt="R Savant-1x1-LYNX-Preview" src="https://github.com/user-attachments/assets/9261c5a6-7f22-4322-9c09-1fa94cab3533" /></p>
 
@@ -33,6 +32,19 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 459 
+
+<p align="center"><ins>Atari Lynx (102×160)</ins></p>  
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-LYNX-VERTICAL-Preview" src="https://github.com/user-attachments/assets/a7db4572-5df3-4b8a-82c6-6178dcfc9774" />  <img width="360" height="240" alt="R Savant-3x2-LYNX-VERTICAL-Preview" src="https://github.com/user-attachments/assets/40483e6c-a6b7-46e4-bf60-4958b348ce00" />  <img width="360" height="360" alt="R Savant-1x1-LYNX-VERTICAL-Preview" src="https://github.com/user-attachments/assets/da475e6f-d8ef-430b-bff0-11636f8dda3c" /></p>
+
+>· Settings > Video > Scaling (not 1:1)  
+&emsp;· Integer Scale > ON  
+&emsp;· Aspect Ratio > 1:1 PAR (51:80 DAR)
+
+>· Settings > Video > Scaling (for 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 459  
+&emsp;· Custom Aspect Ratio (Height) > 720
 
 <p align="center"><ins>Nintendo Game Boy (DMG) / Game Boy Pocket (160×144)</ins></p>  
 <p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" />  <img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/cadf85b0-b758-4fab-8de3-41723a5a10c9" /></p>

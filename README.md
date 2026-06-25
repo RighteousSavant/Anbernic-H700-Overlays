@@ -264,11 +264,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 540  
 
 ## Feedback is always welcome!
-If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new servers.  I'm on the following:  
-  
-[FinalBurn Neo](https://discord.gg/pV7BkTYbH)  
-[KNULLI](https://discord.gg/d9PYJjuhr)  
-[RetroHandhelds.gg](https://discord.gg/retrohandhelds)  
+If you wish to reach out to me with any feedback about the overlays, I recommend the servers that I roam on Discord.
+
+<p align="center"><a href="https://discord.gg/d9PYJjuhr">  <img src="https://github.com/user-attachments/assets/b1cacca0-d84a-4903-99c8-72fb3fdba28b" alt="KNULLI" /></a>  
+<a href="https://discord.gg/pV7BkTYbH">  <img src="https://github.com/user-attachments/assets/04b6e921-4b11-4b65-9dc1-de66375f770e" alt="Final Burn Neo" /></a>  
+<a href="https://discord.gg/retrohandhelds">  <img src="https://github.com/user-attachments/assets/71c6e4db-454d-4379-8376-7b4c424409ee" alt="Retro Handhelds"/></a></p>
 
 Please be sure the respect the rules for each individual server.  
 

@@ -21,7 +21,7 @@ Thanks to [chrizzo](https://github.com/chrizzo-hb) and [mugwomp93](https://githu
 <a href="https://github.com/RighteousSavant/Anbernic-H700-Overlays/raw/refs/heads/main/KNULLI%20Overlays/R.%20Savant's%20720x480%20KNULLI%20Overlays.zip" download="R. Savant's 720x480 KNULLI Overlays.zip">  <img src="https://github.com/user-attachments/assets/584a5a81-1a26-48f7-a67c-b35e651da4c7" alt="720x480"></a>
 <a href="https://github.com/RighteousSavant/Anbernic-H700-Overlays/raw/refs/heads/main/KNULLI%20Overlays/R.%20Savant's%20720x720%20KNULLI%20Overlays.zip" download="R. Savant's 720x720 KNULLI Overlays.zip">  <img src="https://github.com/user-attachments/assets/c186c4b2-829d-497f-9960-3245d4d2df60" alt="720x720"></a>
 </p>
-<p align="center"><small>$\color{#D4AF37}{\text{NOTE: If you plan on playing any vertical-orientated Lynx or WonderSwan games, please click on the handheld below to learn more.}}$</small></p>  
+<p align="center"><small>$\color{#D4AF37}{\text{NOTE: If you plan on playing any vertical Lynx or WonderSwan games, please click on the handheld below to learn more.}}$</small></p>  
 <p align="center"><a href="https://github.com/RighteousSavant/Anbernic-H700-Overlays/blob/main/KNULLI%20Overlays/README.md" download="readme.txt">  <img src="https://github.com/user-attachments/assets/46553e87-757f-41e6-9a69-14b2dae3693f" alt="ReadMe"></a></p>
 
 

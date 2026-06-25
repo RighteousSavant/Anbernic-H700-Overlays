@@ -1,6 +1,6 @@
 # Special Instructions for KNULLI users only!
 
-_NOTE:  I will not be crafting overlays for Adult, Beta nor Pirate games.  Please do not ask._
+_NOTE:  I will not be crafting overlays or config/information files for Adult, Beta, Demo nor Pirate games.  Please do not ask._
 
 ## VERTICAL LYNX  
 Files must exactly match the latest No-Intro Database format.  Here are the names:
@@ -19,7 +19,7 @@ Lexis (USA)
 NFL Football (USA, Europe)  
 Raiden (USA)  
 
-Whether or not you wish to rename your files, you are covered two ways.  Just comes down to the naming.
+Whichever method to rename your files, you are covered two ways.
 
 ## VERTICAL WONDERSWAN / WONDERSWAN COLOR
 Coming soon

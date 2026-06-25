@@ -97,14 +97,18 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 <p align="center"><ins>Nintendo Game Boy Advance (240×160)</ins></p>
 <p align="center"><small>$\color{#D4AF37}{\text{Resolution is a 3:2 ratio, so only a 4:3 and 1:1 overlays are available.}}$</small></p>  
-<p align="center"><img width="320" height="240" alt="R Savant-4x3-GBA-Preview" src="https://github.com/user-attachments/assets/7f8a29a9-0404-44b6-8fbd-9e6df5a40d8e" /></p>  
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-GBA-Preview" src="https://github.com/user-attachments/assets/13e01dfc-dcbb-4043-a133-6a344bc39cd8" /></p>  
 <p align="center"><img width="360" height="360" alt="GBA-Cube-Preview" src="https://github.com/user-attachments/assets/db7af59a-e8e9-47ff-84f1-d0502f44a3aa" /></p>  
   
+>· Settings > Video > Scaling (for 4:3, resolution is 2.5× base)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 600  
+&emsp;· Custom Aspect Ratio (Height) > 400  
+
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > ON  
-&emsp;· Integer Scale Scaling > Smart (4:3 only)  
 &emsp;· Aspect Ratio > 1:1 PAR (3:2 DAR)  
-&emsp;· Viewport Anchor Bias Y > 0.00 (4:3 only)
 
 <p align="center"><ins>Sega Game Gear (160×144)</ins></p>
 <p align="center"><img width="320" height="240" alt="GAMEGEAR-40V-Preview" src="https://github.com/user-attachments/assets/64024e73-89d2-4a62-98bf-07f71a603fbe" />  
@@ -240,6 +244,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Settings > Video > Scaling  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
+  
 >. For 4:3 and 3:2  
 &emsp;· Custom Aspect Ratio (Width) > 640  
 &emsp;· Custom Aspect Ratio (Height) > 448  

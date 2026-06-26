@@ -60,6 +60,25 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 459  
 &emsp;· Custom Aspect Ratio (Height) > 720
 
+
+<p align="center"><ins>Bandai WonderSwan / WonderSwan Color (224×144)</ins></p>  
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-WSWANC-Preview" src="https://github.com/user-attachments/assets/3eb4f03f-3c03-44db-889b-308f858f94af" /></p>
+<p align="center"><img width="360" height="240" alt="R Savant-3x2-WSWANC-Preview" src="https://github.com/user-attachments/assets/ef644142-413e-4164-99aa-3336c43c4e54" /></p>
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-WSWANC-Preview" src="https://github.com/user-attachments/assets/47a411d5-8a61-48c2-8e24-a2abd0d97ee5" /></p>
+
+>· Settings > Video > Scaling (for 4:3, resolution is 2.5× base)  
+&emsp;· Integer Scale > ON  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 560  
+&emsp;· Custom Aspect Ratio (Height) > 360  
+
+
+>· Settings > Video > Scaling (for 3:2 and 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 672  
+&emsp;· Custom Aspect Ratio (Height) > 432
+
 <p align="center"><ins>Nintendo Game Boy (DMG) / Game Boy Pocket (160×144)</ins></p>  
 <p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" />  <img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/cadf85b0-b758-4fab-8de3-41723a5a10c9" /></p>
 <p align="center"><img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" />  <img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/ee943a1d-3424-475a-a09a-dba25625f776" /></p>

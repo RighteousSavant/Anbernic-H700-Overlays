@@ -69,7 +69,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <img width="360" height="360" alt="R Savant-1x1-WSWANC-Preview" src="https://github.com/user-attachments/assets/47a411d5-8a61-48c2-8e24-a2abd0d97ee5" /></p>
 
 >· Settings > Video > Scaling (for 4:3, resolution is 2.5× base)  
-&emsp;· Integer Scale > ON  
+&emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 560  
 &emsp;· Custom Aspect Ratio (Height) > 360  

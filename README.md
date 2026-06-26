@@ -61,9 +61,12 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 
 <p align="center"><ins>Bandai WonderSwan / WonderSwan Color (224×144)</ins></p>  
-<p align="center"><img width="320" height="240" alt="R Savant-4x3-WSWANC-Preview" src="https://github.com/user-attachments/assets/3eb4f03f-3c03-44db-889b-308f858f94af" /></p>
-<p align="center"><img width="360" height="240" alt="R Savant-3x2-WSWANC-Preview" src="https://github.com/user-attachments/assets/ef644142-413e-4164-99aa-3336c43c4e54" /></p>
-<p align="center"><img width="360" height="360" alt="R Savant-1x1-WSWANC-Preview" src="https://github.com/user-attachments/assets/47a411d5-8a61-48c2-8e24-a2abd0d97ee5" /></p>
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-WSWAN-Preview" src="https://github.com/user-attachments/assets/582e97c3-c082-4564-8619-3f8c10c7b4b6" />  
+<img width="320" height="240" alt="R Savant-4x3-WSWANC-Preview" src="https://github.com/user-attachments/assets/3eb4f03f-3c03-44db-889b-308f858f94af" /></p>
+<p align="center"><img width="360" height="240" alt="R Savant-3x2-WSWAN-Preview" src="https://github.com/user-attachments/assets/15cdd742-21ff-4a9a-876d-553eed99d1bc" />  
+<img width="360" height="240" alt="R Savant-3x2-WSWANC-Preview" src="https://github.com/user-attachments/assets/ef644142-413e-4164-99aa-3336c43c4e54" /></p>
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-WSWAN-Preview" src="https://github.com/user-attachments/assets/a5a7f59f-989b-414d-a0e2-0866f7d3f7db" />  
+<img width="360" height="360" alt="R Savant-1x1-WSWANC-Preview" src="https://github.com/user-attachments/assets/47a411d5-8a61-48c2-8e24-a2abd0d97ee5" /></p>
 
 >· Settings > Video > Scaling (for 4:3, resolution is 2.5× base)  
 &emsp;· Integer Scale > ON  

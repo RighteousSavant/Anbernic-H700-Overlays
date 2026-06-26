@@ -35,21 +35,20 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Auto-rotate Screen > Manual (press Select to rotate if needed)
 
 >· Settings > Video > Scaling (for 4:3 and 3:2)  
-&emsp;· Integer Scale > ON  
-&emsp;· Aspect Ratio > 1:1 PAR (80:51 DAR)  
-
->· Settings > Video > Scaling (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
-&emsp;· Custom Aspect Ratio (Height) > 459  
+&emsp;· Custom Aspect Ratio (Height) > 408  
+
+>· Settings > Video > Scaling (for 1:1)  
+&emsp; · Integer Scale > ON  
+&emsp; · Aspect Ratio > 1:1 PAR (80:51 DAR)
 
 <p align="center"><ins>Atari Lynx (Vertical, 102×160)</ins></p>  
 <p align="center"><img width="320" height="240" alt="R Savant-4x3-LYNX-VERTICAL-Preview" src="https://github.com/user-attachments/assets/a7db4572-5df3-4b8a-82c6-6178dcfc9774" />  <img width="360" height="240" alt="R Savant-3x2-LYNX-VERTICAL-Preview" src="https://github.com/user-attachments/assets/40483e6c-a6b7-46e4-bf60-4958b348ce00" />  <img width="360" height="360" alt="R Savant-1x1-LYNX-VERTICAL-Preview" src="https://github.com/user-attachments/assets/da475e6f-d8ef-430b-bff0-11636f8dda3c" /></p>
 
 >· Quick Menu > Core Options  
 &emsp;· Auto-rotate Screen > Manual (press Select to rotate if needed)  
-
 >· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (51:80 DAR)

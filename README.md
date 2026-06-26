@@ -34,7 +34,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Quick Menu > Core Options  
 &emsp;· Auto-rotate Screen > Manual (press Select to rotate if needed)
 
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (80:51 DAR)  
 
@@ -50,7 +50,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Quick Menu > Core Options  
 &emsp;· Auto-rotate Screen > Manual (press Select to rotate if needed)  
 
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (51:80 DAR)
 
@@ -69,7 +69,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· GB Colorization > Internal  
 &emsp;· Internal Palette > GB - DMG or Pocket  
 
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
 
@@ -84,7 +84,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <img width="360" height="240" alt="GBC-34-Preview" src="https://github.com/user-attachments/assets/de9d1153-ac5d-4404-b299-09231b2ac24e" />  
 <img width="360" height="360" alt="GBC-Cube-Preview" src="https://github.com/user-attachments/assets/f3cd1bde-3829-4700-889b-13dd16a021c7" /></p>  
 
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)
 
@@ -118,7 +118,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 >· Quick Menu > Core Options > Video  
 &emsp;· Hide Master System Side Borders > Left Border Only  
 
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:9 DAR)  
 
@@ -133,7 +133,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <img width="360" height="240" alt="NGPC-34-Preview" src="https://github.com/user-attachments/assets/087502ed-79a8-455a-b6b8-e08925d5b46b" />  
 <img width="360" height="360" alt="NGPC-Cube-Preview" src="https://github.com/user-attachments/assets/e3dfa2eb-155d-4df0-8b86-89f80cca8455" /></p>  
 
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (20:19 DAR)
 
@@ -158,11 +158,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <img width="360" height="240" alt="R Savant-3x2-SUPERGRAFX-Preview" src="https://github.com/user-attachments/assets/a9299e04-179b-4856-a862-1265c91466c4" />  
 <img width="360" height="360" alt="R Savant-Cube-SUPERGRAFX-Preview" src="https://github.com/user-attachments/assets/265f8a3a-c664-41cc-82f5-1473ae979cc2" /></p>  
 
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (16:15 DAR)
 
->· Settings > Video > Scaling (for 1:1, resolution is 2.5× base)  
+>· Settings > Video > Scaling (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
@@ -173,11 +173,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <img width="360" height="240" alt="NES-34-Preview" src="https://github.com/user-attachments/assets/a15e6a3d-56b0-4312-bcd2-9d3b3f65ae9a" />  
 <img width="360" height="360" alt="NES-Cube-Preview" src="https://github.com/user-attachments/assets/b8d55494-7411-48bb-b4d9-dee9f4b1d3de" /></p>
   
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
 
->· Settings > Video > Scaling (for 1:1, resolution is 2.5× base)  
+>· Settings > Video > Scaling (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
@@ -188,11 +188,11 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <img width="360" height="240" alt="SNES-34-Preview" src="https://github.com/user-attachments/assets/c3596e99-3119-45a4-b748-decb257d36ff" />  
 <img width="360" height="360" alt="SNES-Cube-Preview" src="https://github.com/user-attachments/assets/dfaeb7e5-63a2-4de9-b3e5-00c6cce4f806" /></p>
 
->· Settings > Video > Scaling (not 1:1)  
+>· Settings > Video > Scaling (for 4:3 and 3:2)   
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
 
->· Settings > Video > Scaling (for 1:1, resolution is 2.5× base)  
+>· Settings > Video > Scaling (for 1:1)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
@@ -226,7 +226,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 <p align="center"><img width="360" height="360" alt="R Savant-1x1-SEGACD-Preview" src="https://github.com/user-attachments/assets/1d86ce81-63cb-4854-970e-0032692e952e" />
 <img width="360" height="360" alt="R Savant-1x1-SEGA32X-Preview" src="https://github.com/user-attachments/assets/0943c2ab-15ad-4282-abdb-16bb940ce427" /></p>
 
->· Settings > Video > Scaling  (not 1:1)  
+>· Settings > Video > Scaling  (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (10:7 DAR)  
 &emsp;· Viewport Anchor Bias Y > 0.00 (4:3 only)  

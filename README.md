@@ -177,7 +177,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
 
->· Settings > Video > Scaling (for 1:1)  
+>· Settings > Video > Scaling (for 1:1, resolution is 2.5× base)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  
@@ -192,7 +192,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (8:7 DAR)
 
->· Settings > Video > Scaling (for 1:1)  
+>· Settings > Video > Scaling (for 1:1, resolution is 2.5× base)  
 &emsp;· Integer Scale > OFF  
 &emsp;· Aspect Ratio > Custom  
 &emsp;· Custom Aspect Ratio (Width) > 640  

@@ -12,7 +12,7 @@ Lexis (World) (Aftermarket) (Unl)
 NFL Football (USA, Europe)  
 Raiden (World) (Aftermarket) (Unl)  
 
-## VERTICAL WONDERSWAN (Coming soon)  
+## VERTICAL WONDERSWAN (Work-in-progress)  
 
 beatmania for WonderSwan (Japan)  
 Crazy Climber (Japan)  
@@ -36,7 +36,7 @@ Tetsujin 28 Gou (Japan)
 Tokyo Majin Gakuen - Fuju Houroku (Japan)  
 Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)  
 
-## VERTICAL WONDERSWAN COLOR (Coming soon)  
+## VERTICAL WONDERSWAN COLOR (Work-in-progress)  
 
 Another Heaven - Memory of those Days (Japan)  
 Cardinal Sins - Recycle Edition (World) (Ja) (v1.00) (WonderWitch) (Aftermarket) (Unl)  

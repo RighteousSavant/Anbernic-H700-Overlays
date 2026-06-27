@@ -14,11 +14,27 @@ Raiden (World) (Aftermarket) (Unl)
 
 ## VERTICAL WONDERSWAN
 
+beatmania for WonderSwan (Japan)  
 Crazy Climber (Japan)  
+D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)  
+From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)  
 GunPey (Japan)  
+Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)  
 Magical Drop for WonderSwan (Japan)  
+Meitantei Conan - Majutsushi no Chousenjou! (Japan)  
+Mingle Magnet (Japan) (En,Ja) (Rev 1)  
+Mobile Suit Gundam MSVS (Japan)  
 Puzzle Bobble (Japan)  
-Rainbow Islands: Putty's Party (Japan)  
+Rainbow Islands - Putty's Party (Japan)  
+Rainbow Islands - Putty's Party (Japan) [T-En by USC v1.1]  
+Ring Infinity (Japan)  
+Sennou Millennium (Japan)  
+Slither Link (Japan)  
+Tare Panda no GunPey (Japan)  
+Terrors (Japan)  
+Tetsujin 28 Gou (Japan)  
+Tokyo Majin Gakuen - Fuju Houroku (Japan)  
+Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)  
 
 ## VERTICAL WONDERSWAN COLOR
 

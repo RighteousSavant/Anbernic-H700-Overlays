@@ -81,7 +81,6 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 432
 
 <p align="center"><ins>Bandai WonderSwan / WonderSwan Color (Vertical, 144×224)</ins></p>  
-<p align="center"><small>$\color{#D4AF37}{\text{Corrections in progress}}$</small></p>
 
 <p align="center"><img width="320" height="240" alt="R Savant-4x3-WSWAN-VERTICAL-Preview" src="https://github.com/user-attachments/assets/6b4c6dc9-e475-4a06-910b-eb4aea9b47a9" />  <img width="320" height="240" alt="R Savant-4x3-WSWANC-Preview" src="https://github.com/user-attachments/assets/c6181a84-6a5c-4c53-9783-0f15d09d3136" /></p>  
 <p align="center"><img width="360" height="240" alt="R Savant-3x2-WSWAN-VERTICAL-Preview" src="https://github.com/user-attachments/assets/d48dc90d-59ec-4575-aace-520a44029220" />  <img width="360" height="240" alt="R Savant-3x2-WSWANC-VERTICAL-Preview" src="https://github.com/user-attachments/assets/b52b2bbe-8bcf-4e6a-9010-800153e3c63a" /></p>

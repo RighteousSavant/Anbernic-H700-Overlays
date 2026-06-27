@@ -81,6 +81,23 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 672  
 &emsp;· Custom Aspect Ratio (Height) > 432
 
+<p align="center"><ins>Bandai WonderSwan / WonderSwan Color (Vertical, 144×224)</ins></p>  
+<p align="center"><img width="320" height="240" alt="R Savant-4x3-WSWAN-VERTICAL-Preview" src="https://github.com/user-attachments/assets/6b4c6dc9-e475-4a06-910b-eb4aea9b47a9" />  <img width="320" height="240" alt="R Savant-4x3-WSWANC-Preview" src="https://github.com/user-attachments/assets/c6181a84-6a5c-4c53-9783-0f15d09d3136" /></p>  
+<p align="center"><img width="360" height="240" alt="R Savant-3x2-WSWAN-VERTICAL-Preview" src="https://github.com/user-attachments/assets/d48dc90d-59ec-4575-aace-520a44029220" />  <img width="360" height="240" alt="R Savant-3x2-WSWANC-VERTICAL-Preview" src="https://github.com/user-attachments/assets/b52b2bbe-8bcf-4e6a-9010-800153e3c63a" /></p>
+<p align="center"><img width="360" height="360" alt="R Savant-1x1-WSWAN-VERTICAL-Preview" src="https://github.com/user-attachments/assets/cc434245-66c2-41df-b9be-aef019a88e6f" />  <img width="360" height="360" alt="R Savant-1x1-WSWANC-90-Preview" src="https://github.com/user-attachments/assets/1cb5d2d6-aeec-41df-8ddc-78ef7418b7e3" /></p>
+
+>· Settings > Video > Scaling (for 4:3 and 3:2)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 228  
+&emsp;· Custom Aspect Ratio (Height) > 448  
+
+>· Settings > Video > Scaling (for and 1:1)  
+&emsp;· Integer Scale > OFF  
+&emsp;· Aspect Ratio > Custom  
+&emsp;· Custom Aspect Ratio (Width) > 432  
+&emsp;· Custom Aspect Ratio (Height) > 672  
+
 <p align="center"><ins>Nintendo Game Boy (DMG) / Game Boy Pocket (160×144)</ins></p>  
 <p align="center"><img width="320" height="240" alt="DMG-40V-Preview" src="https://github.com/user-attachments/assets/21029225-3dd7-454e-8178-700d58596ce4" />  <img width="320" height="240" alt="GBP-40V-Preview" src="https://github.com/user-attachments/assets/cadf85b0-b758-4fab-8de3-41723a5a10c9" /></p>
 <p align="center"><img width="360" height="240" alt="DMG-34-Preview" src="https://github.com/user-attachments/assets/07b06fce-05ba-429e-8794-001e5cbeaef9" />  <img width="360" height="240" alt="GBP-34-Preview" src="https://github.com/user-attachments/assets/ee943a1d-3424-475a-a09a-dba25625f776" /></p>

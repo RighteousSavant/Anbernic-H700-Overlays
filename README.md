@@ -59,7 +59,6 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Width) > 459  
 &emsp;· Custom Aspect Ratio (Height) > 720
 
-
 <p align="center"><ins>Bandai WonderSwan / WonderSwan Color (224×144)</ins></p>  
 <p align="center"><img width="320" height="240" alt="R Savant-4x3-WSWAN-Preview" src="https://github.com/user-attachments/assets/582e97c3-c082-4564-8619-3f8c10c7b4b6" />  
 <img width="320" height="240" alt="R Savant-4x3-WSWANC-Preview" src="https://github.com/user-attachments/assets/3eb4f03f-3c03-44db-889b-308f858f94af" /></p>
@@ -82,6 +81,8 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 &emsp;· Custom Aspect Ratio (Height) > 432
 
 <p align="center"><ins>Bandai WonderSwan / WonderSwan Color (Vertical, 144×224)</ins></p>  
+<p align="center"><small>$\color{#D4AF37}{\text{Corrections in progress}}$</small></p>
+
 <p align="center"><img width="320" height="240" alt="R Savant-4x3-WSWAN-VERTICAL-Preview" src="https://github.com/user-attachments/assets/6b4c6dc9-e475-4a06-910b-eb4aea9b47a9" />  <img width="320" height="240" alt="R Savant-4x3-WSWANC-Preview" src="https://github.com/user-attachments/assets/c6181a84-6a5c-4c53-9783-0f15d09d3136" /></p>  
 <p align="center"><img width="360" height="240" alt="R Savant-3x2-WSWAN-VERTICAL-Preview" src="https://github.com/user-attachments/assets/d48dc90d-59ec-4575-aace-520a44029220" />  <img width="360" height="240" alt="R Savant-3x2-WSWANC-VERTICAL-Preview" src="https://github.com/user-attachments/assets/b52b2bbe-8bcf-4e6a-9010-800153e3c63a" /></p>
 <p align="center"><img width="360" height="360" alt="R Savant-1x1-WSWAN-VERTICAL-Preview" src="https://github.com/user-attachments/assets/cc434245-66c2-41df-b9be-aef019a88e6f" />  <img width="360" height="360" alt="R Savant-1x1-WSWANC-90-Preview" src="https://github.com/user-attachments/assets/1cb5d2d6-aeec-41df-8ddc-78ef7418b7e3" /></p>

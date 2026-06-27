@@ -38,14 +38,21 @@ Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)
 
 ## VERTICAL WONDERSWAN COLOR
 
+Another Heaven - Memory of those Days (Japan)  
 Cardinal Sins - Recycle Edition (World) (Ja) (v1.00) (WonderWitch) (Aftermarket) (Unl)  
 Cardinal Sins - Recycle Edition (World) (Ja) (v1.01) (WonderWitch) (Aftermarket) (Unl)  
 Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)  
-Charaga (World) (WonderWitch) (Unl)  
 Digital Monster Card Game - Ver. WonderSwan Color (Japan) [T-En by Kaiisen & Wazzpinator v1.1] [i]  
+Digital Monster Card Game - Ver. WonderSwan Color (Japan)  
+Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)  
 GunPey DX (Japan)  
 Judgement Silversword - Rebirth Edition (Japan) (Rev 4321)  
 Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)  
 Kurupara! (Japan)  
+Last Alive (Japan)  
+Mikeneko Holmes - Ghost Panic (Japan)  
+Sorobang (Japan) (Rev 1)  
+Tetris (Japan)  
+Wonder Classic (Japan)  
 Tetris (Japan)  
 Wonder Classic (Japan)  

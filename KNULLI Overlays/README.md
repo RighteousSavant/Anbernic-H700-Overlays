@@ -1,6 +1,6 @@
 # Special Instructions for KNULLI users only!
 
-_NOTE:  I will not be crafting overlays or config/information files for Adult, Beta, Demo nor Pirate games.  Please do not ask._
+_NOTE:  I will not be crafting overlays or config/information files for Adult, Beta, Demo, Pirate nor Prototype games.  Please do not ask._
 
 Files must exactly match the latest No-Intro Database format.  Otherwise, the games will not display correctly.  Here are the names:  
 

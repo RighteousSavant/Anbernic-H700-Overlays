@@ -49,6 +49,7 @@ I am including what you will need to setup within the RetroArch Menu for each ov
 
 >· Quick Menu > Core Options  
 &emsp;· Auto-rotate Screen > Manual (press Select to rotate if needed)  
+
 >· Settings > Video > Scaling (for 4:3 and 3:2)  
 &emsp;· Integer Scale > ON  
 &emsp;· Aspect Ratio > 1:1 PAR (51:80 DAR)
